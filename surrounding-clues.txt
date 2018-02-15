@@ -1,0 +1,4 @@
+based
+Bank
+shares
+agency
