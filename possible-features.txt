@@ -26,3 +26,10 @@ OAO TNK-BP
 Ignoring Reserve Bank of  Australia
 
 AVIC I
+Not a company but should we mark ? Motion Picture Association  of America
+Freeport-McMoRan Copper & Gold Inc ( hyphen)
+OAO can be at the beginning
+Ignore Exchanges or treat as negative examples
+The <markup>Tortola</markup>, British Virgin Islands-based company 
+ 
+ 
