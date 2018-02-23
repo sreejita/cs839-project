@@ -1,0 +1,28 @@
+1.Company suffixes at the end of the substring
+2.All the words in the string with first letter capitalized
+3.No words before current word with first letter capitalized
+4.If the word is at the beginning of the sentence
+5.if the word has 's ?
+6.Beginning of the sentence
+7.'The' before the company name ?
+8.We ignore bloomberg always ? too many instances 
+9.Company name followed by (ABC)
+10. Company name followed by Chief , Chairman
+12. Proximity to word company ?
+13. Short forms ICBC 3 or more letters in caps ?
+14. , after company ?
+
+
+Special cases 
+
+SL Green Realty Corp
+CEO is Stephen L. Green 
+
+Reckson Chief Executive Officer Scott Rechler
+Air France-KLM Group
+OAO TNK-BP
+<markup>Halliburton</markup>'s
+
+Ignoring Reserve Bank of  Australia
+
+AVIC I
