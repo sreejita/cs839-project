@@ -49,3 +49,5 @@ HF
 ASA
 SAB
 Bank
+Groupe
+Resources
