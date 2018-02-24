@@ -15,7 +15,7 @@ this year and will aim to draw customers with an increased number
 of high-price products such as $19,000 crocodile-skin handbags.  
  ``<markup>Gucci</markup> has been an important booster of growth compared with
 the retail business,'' said Emmanuel Soupre, a  fund manager  at
-Neuflize Gestion in Paris, which manages $15 billion in assets.  
+<markup>Neuflize Gestion</markup> in Paris, which manages $15 billion in assets.  
  <markup>PPR</markup>'s Pinault said the company has the ability to make
 small or large acquisitions to expand its retail operations
 internationally and strengthen its collection of luxury brands.

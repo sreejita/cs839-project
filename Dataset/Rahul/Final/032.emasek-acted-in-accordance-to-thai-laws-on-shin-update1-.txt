@@ -8,7 +8,7 @@ was not a reckless investment,'' Tharman Shanmugaratnam,
 Singapore's second minister for finance, said in parliament today.
 The purchase ``was a clean transaction.''  
 
- Probes into the sale of Shin to a group led by <markup>Temasek</markup>, a
+ Probes into the sale of <markup>Shin</markup> to a group led by <markup>Temasek</markup>, a
 Singapore state-owned investment company, earlier this year have
 scared off investors, who are concerned long-practiced ownership
 structures using Thai nominees will be declared illegitimate by
@@ -20,7 +20,7 @@ about 60 days and stop ``turning a blind eye'' to deals that may
 contravene rules, the country's Commerce Minister Krirk-krai
 Jirapaet said Nov. 10.  
 
- <markup>Temasek</markup> and Thai nominee companies bought 96 percent of Shin,
+ <markup>Temasek</markup> and Thai nominee companies bought 96 percent of <markup>Shin</markup>,
 owner of Thailand's biggest mobile-phone company, from investors,
 including the family of former Prime Minister Thaksin Shinawatra.
 The deal exacerbated protests and a political stalemate in

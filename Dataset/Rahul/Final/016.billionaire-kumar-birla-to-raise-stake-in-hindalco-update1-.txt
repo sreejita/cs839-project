@@ -20,8 +20,9 @@ close of trading on the Bombay Stock Exchange. The stock slumped
 21 percent last month, the most since May 2006.  
  <markup>Hindalco</markup> will seek approval from shareholders on March 28.
 Each warrant will be converted into one share, the company said.  
- The company hired ABN Amro Holding NV and UBS AG to borrow
-$2.4 billion to fund its leveraged buyout of <markup>Novelis</markup>, Pragnya Ram, company spokeswoman said Feb. 15. <markup>Hindalco</markup>'s total debt
+ The company hired <markup>ABN Amro Holding NV</markup> and <markup>UBS AG</markup> to borrow
+$2.4 billion to fund its leveraged buyout of <markup>Novelis</markup>, Pragnya Ram, company spokeswoman said Feb. 15. 
+<markup>Hindalco</markup>'s total debt
 will increase to $5.2 billion after the acquisition, according
 to a statement by  Fitch Ratings .  
  

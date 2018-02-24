@@ -1,11 +1,4 @@
--- Norilsk Plans to Spin Off Power Assets By Year-End
--- Yuriy Humber
--- 2007-02-05T17:25:53Z
--- http://www.bloomberg.com/news/2007-02-05/norilsk-plans-to-spin-off-power-assets-by-year-end-update1-.html
-
-          
-          
-             </markup>OAO GMK Norilsk Nickel</markup>(GMKN)  Chief
+</markup>OAO GMK Norilsk Nickel</markup>(GMKN)  Chief
 Executive Officer  Mikhail Prokhorov  said the company plans to
 spin off all its power assets to create Russia's largest energy
 holding before the end of this year.  
@@ -29,7 +22,7 @@ producer, <markup>OAO Polyus</markup>. The partners agreed last month to split
 their business empire to manage their disparate companies,
 ranging from mining to real estate to media, more effectively.  
 
- Prokhorov intends to resign and sell his shares in Norilsk,
+ Prokhorov intends to resign and sell his shares in <markup>Norilsk</markup>,
 the world's biggest nickel miner, to Potanin. Potanin will give
 his partner the energy and hydrogen power holdings, the
 billionaires' management company Interros said Jan. 31. The rest

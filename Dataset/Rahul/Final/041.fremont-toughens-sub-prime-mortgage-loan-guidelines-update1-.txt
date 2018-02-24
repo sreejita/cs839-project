@@ -6,12 +6,12 @@ payments by the riskiest borrowers.
 can't prove their income when buying a home with no money down,
 or to those that make down payments of less than 10 percent for
 properties sold without real estate agents, according to an
-internal memo. Fremont Investment, the main operating unit of
+internal memo. <markup>Fremont Investment</markup>, the main operating unit of
  Santa Monica , California-based <markup>Fremont General Corp<markup>., will also
 refuse to refinance loans that are more than 90 days late.  
  ``Change can be difficult for everyone, but in the current
 market, change is necessary,'' Robert Clafford, a senior vice
-president at Fremont, wrote in the memo, which outlined 11 areas
+president at <markup>Fremont</markup>, wrote in the memo, which outlined 11 areas
 where the company would tighten standards. Clafford declined to
 comment about the memo when reached by telephone yesterday.  
  A slowing housing market and looser underwriting has pushed
@@ -22,5 +22,5 @@ are made to people with poor or limited credit histories.
  Other lenders have also clamped down on lending practices
 within the past month, including <markup>New Century Financial Corp</markup>.,
 <markup>General Electric Co</markup>.'s WMC Mortgage, and <markup>First Franklin
-Financial</markup>, which Merrill Lynch & Co. bought this month.  
+Financial</markup>, which <markup>Merrill Lynch & Co</markup>. bought this month.  
  

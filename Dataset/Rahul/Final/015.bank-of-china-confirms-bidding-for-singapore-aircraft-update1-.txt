@@ -15,8 +15,8 @@ only focusing on the loan business.''
  <markup>Bank of China</markup>, founded in 1912, is among the Chinese lenders
 that are trying to diversify their revenue sources and prepare
 for global competition when China fully opens its banking
-industry on Dec. 11. Foreign banks including <markup>Citigroup Inc</markup>., <markup>HSBC
-Holdings Plc</markup> and <markup>Standard Chartered</markup> will be allowed to tap the
+industry on Dec. 11. Foreign banks including <markup>Citigroup Inc</markup>., 
+<markup>HSBC Holdings Plc</markup> and <markup>Standard Chartered</markup> will be allowed to tap the
 nation's $2 trillion in  savings , taking yuan deposits and lending
 in the local currency to Chinese citizens.   
  

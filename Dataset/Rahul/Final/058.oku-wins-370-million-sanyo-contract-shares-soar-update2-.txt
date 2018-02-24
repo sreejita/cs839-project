@@ -1,7 +1,7 @@
 <markup>Hoku Scientific Inc</markup>., a maker of fuel
 cell components, will supply polysilicon to </markup> Sanyo Electric Co</markup>.
 under a seven-year agreement valued at as much as $370 million.
-Hoku's shares more than doubled in value.  
+<markup>Hoku</markup>'s shares more than doubled in value.  
  <markup>Hoku Materials</markup>, a division of <markup>Hoku Scientific</markup>, will produce
 the polysilicon for use in solar-fuel cells beginning in 2009,
 the company said in a statement. The agreement calls for Kapolei,

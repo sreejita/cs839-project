@@ -25,7 +25,7 @@ laws. They have denied the allegations.
  Brown is still in jail after failing to raise bail, the
 South African Press Association said, citing Brown's lawyers,
 who they didn't identify.  
- Absa is controlled by <markup>Barclays Plc</markup>, the U.K.'s third-largest bank.  
+ <markup>Absa</markup> is controlled by <markup>Barclays Plc</markup>, the U.K.'s third-largest bank.  
  To contact the reporter on this story:
 Vernon Wessels in Johannesburg at 
  vwessels@bloomberg.net   

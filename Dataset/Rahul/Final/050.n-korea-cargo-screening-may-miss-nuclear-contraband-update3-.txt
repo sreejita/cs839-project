@@ -46,8 +46,8 @@ radiation from a natural source and material used in a nuclear
 weapon, said Gene Aloise, director of natural resources and
 environment at the Government Accountability Office, Congress's
 non-partisan investigative arm.  
- The detectors -- which are made by San Diego-based  <markup>SAIC
-Inc</markup>. (SAI) , Longmont, Colorado-based <markup>TSA Systems Ltd</markup> contain a piece of
+ The detectors -- which are made by San Diego-based  <markup>SAIC Inc</markup>.
+ (SAI) , Longmont, Colorado-based <markup>TSA Systems Ltd</markup> contain a piece of
 specially molded plastic whose atoms emit glimmers of light when
 struck by gamma rays emitted by a radioactive source. The light
 glimmers are then amplified by the machine.  

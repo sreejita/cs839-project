@@ -21,7 +21,7 @@ p.m. New York time in Nasdaq Stock Market composite trading.
 They've gained 28 percent since the tracking stock started
 trading in May.  
  <markup>Disney</markup>, based in  Burbank ,  California , said in July it would
-cut 20 percent of its film unit's workforce and put out 10 Disney
+cut 20 percent of its film unit's workforce and put out 10 <markup>Disney</markup>
 features and two to three Touchstone ones a year, down from as
 many as 16 under the two brands a year earlier. That leaves room
 for smaller studios such as Overture to gain a share of the

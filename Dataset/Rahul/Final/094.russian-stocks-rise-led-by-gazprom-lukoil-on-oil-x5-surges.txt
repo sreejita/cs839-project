@@ -23,7 +23,7 @@ Mercantile Exchange.
 
  ``The Russian market has lately been driven almost entirely
 by the oil price, and today is no different,'' said John Heisel,
-a trader at Moscow-based Sovlink Securities. ``We see crude up
+a trader at Moscow-based <markup>Sovlink Securities</markup>. ``We see crude up
 slightly on speculation supply will tighten, and speculative
 money is piling into liquid oil names, pushing our market up.''  
 
@@ -37,4 +37,4 @@ that supply raw material to the Finnish plant.
  London , the biggest one-day gain in a month. The company's sales
 may more than double from expected 2.2 billion euros ($2.8
 billion) this year to 4.7 billion euros in 2008 on expansion in
-Russian regions, UBS AG wrote in a report released today.  
+Russian regions, <markup>UBS AG</markup> wrote in a report released today.  

@@ -2,7 +2,7 @@
 publishing business acquired rights to a book written by Jenna Bush, daughter of President George W. Bush.  
  ``Ana's Story: A Journey of Hope'' is based on Jenna Bush's
 experiences working with Unicef in Central America,
-HarperCollins said today in a statement. The book will focus on
+<markup>HarperCollins</markup> said today in a statement. The book will focus on
 a 17-year-old single mother who has the virus that causes AIDS.  
  Bush, 25, was inspired to write the book while documenting
 stories of young people living in poverty, said Lisa Szarkowski,

@@ -1,4 +1,4 @@
-OAO Gazprom (GAZP)  plans to complete the
+<markup>OAO Gazprom</markup> (GAZP)  plans to complete the
 acquisition of shares in  <markup>Royal Dutch Shell Plc</markup> (RDSA) 's Sakhalin-2 oil
 and gas venture next month, giving the Russian company control
 over the country's first liquefied natural gas project.  
@@ -15,8 +15,8 @@ LNG output to utilities in  Japan , South Korea and North America.
 The venture is expected to produce 9.6 million tons a year of LNG,
 which is gas cooled to liquid for transport by tanker.  
  
- <markup>Shell</markup> owned 55 percent of Sakhalin-2, Mitsubishi 20 percent
-and Mitsui 25 percent before the agreement with <markup>Gazprom</markup>.  
+ <markup>Shell</markup> owned 55 percent of Sakhalin-2, <markup>Mitsubishi</markup> 20 percent
+and <markup>Mitsui</markup> 25 percent before the agreement with <markup>Gazprom</markup>.  
  Fradkov in Tokyo  
  Russian Premier Mikhail Fradkov held talks this week in
 Tokyo with Japanese ministers and company executives, and

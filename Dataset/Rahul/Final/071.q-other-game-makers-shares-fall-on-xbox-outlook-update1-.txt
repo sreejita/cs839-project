@@ -5,7 +5,7 @@ forecast for Xbox 360 sales.
 York time in Nasdaq Stock Market composite  trading , while
 <markup>Activision Inc</markup>.,  <markup>Take-Two Interactive Software Inc</markup>. (TTWO)  and
  <markup>Electronic Arts Inc</markup>. (EA)  also declined.  
- Game stocks declined after Microsoft yesterday cut its Xbox
+ Game stocks declined after <markup>Microsoft</markup> yesterday cut its Xbox
 360 sales forecast to 12 million units by June from 13 million
 to 15 million, as it reduces production of the money-losing
 consoles. The cut probably won't have a longterm impact on the

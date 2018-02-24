@@ -13,8 +13,8 @@ manager for Gunn Pontiac-GMC Truck in San Antonio.
 
  <markup>GM</markup> is using such incentives after an 8.7 percent drop in its
 U.S. sales of cars and light trucks last year. The automaker and
-Ford Motor Co., second biggest in the U.S., have lost sales and
-market share to Asia-based competitors led by Toyota Motor Corp.  
+<markup>Ford Motor Co</markup>., second biggest in the U.S., have lost sales and
+market share to Asia-based competitors led by <markup>Toyota Motor Corp</markup>.  
  Sensiba said <markup>GM</markup> is also offering $200 to salespeople and $50
 to sales managers for each of the 2006 and 2005 models sold.
 McDonald declined to confirm that.  
