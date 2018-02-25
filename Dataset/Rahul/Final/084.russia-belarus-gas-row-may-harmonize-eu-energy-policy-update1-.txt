@@ -25,7 +25,7 @@ broadcaster TVN24.
  Russia temporarily cut off gas deliveries to Ukraine in
 January over a similar price spat. The clash led to gas shortages
 in EU countries including Germany, France and  Poland  and dented
-<markup>Gazprom</markup>'s reputation as a reliable supplier.  
+<markup>Gazprom</markup> 's reputation as a reliable supplier.  
  The German government said it is concerned, though it gave
 assurances there was no danger of gas shortages in Germany should
 <markup>Gazprom</markup> supplies be halted.   

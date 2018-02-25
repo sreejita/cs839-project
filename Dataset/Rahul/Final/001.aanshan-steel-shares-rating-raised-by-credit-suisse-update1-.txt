@@ -3,7 +3,7 @@ second-biggest Hong Kong-listed steelmaker, had the rating on
 its stock raised by <markup>Credit Suisse Group</markup>, citing higher profit.  
  <markup>Maanshan Steel</markup> was raised to ``outperform'' from
 ``neutral,'' Hong Kong-based analysts Trina Chen and Mick Mi
-said in a report today. <markup>Maanshan Steel</markup>'s efforts to streamline
+said in a report today. <markup>Maanshan Steel</markup> 's efforts to streamline
 production of railway-carriage wheels will boost output by 50
 percent by 2008, raising earnings 13 percent, the report said.  
  China plans to spend 100 billion yuan ($13 billion) by 2020
@@ -11,7 +11,7 @@ to extend its rail network by 35 percent, fueling demand for
 carriage wheels. Domestic wheel demand is forecast to grow by 60
 percent by 2010, <markup>Credit Suisse</markup> said. <markup>Maanshan</markup> currently holds
 more than two-thirds of the market, it said.  
- The<markup>Maanshan</markup> earnings support and surprise is likely
+ The <markup>Maanshan</markup> earnings support and surprise is likely
 its wheel production,'' the analysts said in the report. ``We
 expect the rail-wheel market to remain tight in the context of
 China's railway expansion as well as upgrading demand.''  

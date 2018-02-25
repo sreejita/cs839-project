@@ -25,6 +25,6 @@ today by Automotive News.
  <markup>GM</markup>  shares  rose 75 cents to $31.55 at 4:01 p.m. in  New York 
 Stock Exchange composite trading. They have gained 56 percent in
 the past 12 months.  
- <markup>GM</markup>'s 8.375 percent note due July 2033 rose 0.5 cent to 94.75
+ <markup>GM</markup> 's 8.375 percent note due July 2033 rose 0.5 cent to 94.75
 cents on the dollar, yielding 8.9 percent, according to Trace,
 the NASD's bond-price reporting service.  

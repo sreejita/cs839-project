@@ -1,10 +1,10 @@
 <markup>Halliburton Co</markup>. (HAL) , the world's second-largest oil-services provider, said it has been awarded a three-year contract valued at about $100 million from BP Plc's  Russia 
 venture.  
- <markup>Halliburton</markup>'s energy services unit will service wells for
+ <markup>Halliburton</markup> 's energy services unit will service wells for
 <markup>OAO TNK-BP</markup> in the Tyumen region of Russia under terms of the
 contract, the Houston-based company said today in a statement.
 Work is scheduled to start in the second quarter.  
- <markup>Halliburton</markup>'s energy-services unit is trying to add business
+ <markup>Halliburton</markup> 's energy-services unit is trying to add business
 in the oil-dominated eastern hemisphere to balance out its
 exposure in North America, where volatile natural-gas markets
 dominate exploration and production.  

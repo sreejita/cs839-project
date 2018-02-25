@@ -8,7 +8,7 @@ officer of <markup>Singapore Airlines Ltd</markup>., which owns 35.5 percent of
 Singapore Aircraft Leasing.   
  ``<markup>Bank of China</markup> is in the final bidding round for <markup>Singapore
 Aircraft</markup> and is very keen about the prospects of aircraft finance
-in China,'' <markup>Bank of China</markup>'s Vice President Zhu Min, at an
+in China,'' <markup>Bank of China</markup> 's Vice President Zhu Min, at an
 interview in Beijing today. ``We see a huge market in fee incomes
 and want to push thoroughly into these other areas instead of
 only focusing on the loan business.''  

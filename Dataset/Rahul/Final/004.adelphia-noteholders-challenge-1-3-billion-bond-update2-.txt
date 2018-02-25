@@ -21,7 +21,7 @@ York postponed full trading in the Time Warner Cable shares,
 which creditors will get as part of their payout from <markup>Adelphia</markup>,
 once the fifth-biggest U.S. cable TV company.  
  The judges didn't rule today on the bond question. If the
-noteholders lose their appeal of <markup>Adelphia</markup>'s bankruptcy plan, the
+noteholders lose their appeal of <markup>Adelphia</markup> 's bankruptcy plan, the
 bond would be used to cover whatever damages other <markup>Adelphia</markup>
 creditors suffered because of the delay in implementing the plan.  
  Unreasonable  
@@ -34,7 +34,7 @@ an unreasonable bond.
 <markup>Bank of America Corp</markup>. subsidiary <markup>Bank of America Securities LLC</markup>
 and a unit of <markup>Lehman Brothers Holdings Inc</markup>., to have to indemnify
 the thousands of other creditors in the case.  
- David M. Friedman, an attorney for <markup>Adelphia</markup>'s unsecured
+ David M. Friedman, an attorney for <markup>Adelphia</markup> 's unsecured
 creditors, argued that the bond is needed to cover costs,
 including $700 million in underwriting expenses for a public
 offering of the cable stock if the plan delay prevents the shares

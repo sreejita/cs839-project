@@ -5,7 +5,7 @@ largest maker of telephone gear.
  <markup>Nortel</markup> gains the right to use some of its partner's patents
 to make network products, <markup>Qualcomm</markup> said today in a statement. In
 turn, San Diego-based <markup>Qualcomm</markup> has permission to make and sell
-components for certain phones using <markup>Nortel</markup>'s patents.  
+components for certain phones using <markup>Nortel</markup> 's patents.  
  <markup>Qualcomm</markup>, which faces suits in the U.S. and Europe, also is
 under investigation by regulators in the European Union amid
 allegations the company overcharges </markup>Nokia</markup> and others on
