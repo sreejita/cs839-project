@@ -18,3 +18,4 @@ JSE Limited
 Taiwan Stock Exchange
 BM&F Bovespa
 BME Spanish Exchanges
+Toronto Stock Exchange
