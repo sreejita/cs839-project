@@ -1,14 +1,14 @@
-<markup>Dusa Pharmaceuticals</markup> said a
+<markup>Dusa Pharmaceuticals Inc</markup> said a
 federal judge lifted a ban on sales of a generic version of the
 acne treatment Nicomide by <markup>River's Edge Pharmaceuticals LLC</markup>.
-Dusa's shares fell 10 percent.  
+<markup>Dusa</markup>'s shares fell 10 percent.  
 
  <markup>River's Edge</markup> lawyer Diane Stolbach said the Suwanee,
 Georgia-based company plans to begin selling generic Nicomide
 immediately. <markup>Dusa</markup>, based in Wilmington,  Massachusetts , said it
 will pursue patent-infringement claims against <markup>River's Edge</markup>.  
  U.S. District Judge Stanley Chesler in  Newark , New Jersey,
-imposed the ban in May after <markup>Dusa</markup> sued <markup>River</markup> 's Edge. He lifted
+imposed the ban in May after <markup>Dusa</markup> sued <markup>River's Edge</markup>. He lifted
 the order yesterday after finding that there was ``a substantial
 question of validity'' regarding <markup>Dusa</markup> 's patent and the company
 was unlikely to win at trial on the infringement claims.  
