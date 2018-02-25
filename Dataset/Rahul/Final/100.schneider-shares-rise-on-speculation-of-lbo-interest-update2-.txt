@@ -20,7 +20,7 @@ Oct. 12 that he was aware of interest in his company.
 ``Sooner or later in industrials, we are going to have a knock-out bid. We are in an advanced stage of the stock market cycle,
 and that's usually when unusual things happen.''  
 
- <markup>Schneider</markup>'s shares fell 7.2 percent on Oct. 30 after the
+ <markup>Schneider</markup> 's shares fell 7.2 percent on Oct. 30 after the
 French company agreed to buy <markup>American Power Conversion Corp</markup>.
 for $6.1 billion to become the largest maker of equipment that
 protects computers and factories from power outages.  
@@ -32,6 +32,6 @@ has an ``equal-weight'' rating on the shares.
 the biggest private-equity offers.  
 
  ``In theory, might private-equity companies be looking at
-a company like <markup>Schneider</markup>? The answer is yes,'' Uglow said.
+a company like <markup>Schneider</markup> ? The answer is yes,'' Uglow said.
 ``Investors are also coming back to the market to take
 advantage of the recent pullback in the stock.''  

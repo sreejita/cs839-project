@@ -1,4 +1,4 @@
-Shares of  <markup>Sacyr Vallehermoso SA (SYV) ,
+Shares of  <markup>Sacyr Vallehermoso SA</markup> (SYV) ,
  Spain 's fifth-biggest construction company, had their sharpest-ever gain after the company reported a 38 percent jump in third-quarter operating profit on increased orders for homes and roads.  
 
  The stock closed up 7.13 euros, or 15 percent, at 54 euros,
@@ -19,7 +19,7 @@ or operating profit, rose to 254.1 million euros in the period.
 Revenue increased 31 percent to 1.11 billion euros.  
 
  ``All business areas are having a very good year,'' Ana de
-Pro, <markup>Sacyr</markup>'s managing director for corporate development, said
+Pro, <markup>Sacyr</markup> 's managing director for corporate development, said
 on a conference call. ``The outlook for 2007 is good.''  
 
  Net Income Declines  

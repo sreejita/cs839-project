@@ -10,7 +10,6 @@ Group
 Ltd
 Fund
 LP
-Commission
 Corp.
 Corp
 SA
@@ -55,3 +54,5 @@ Investments
 AS
 International
 Industries
+Management
+BV

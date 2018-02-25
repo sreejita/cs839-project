@@ -9,7 +9,7 @@ didn't disclose a price.
 
  <markup>Salzgitter</markup> has been considering acquisitions since November,
 when it sold 17 percent of <markup>Vallourec SA</markup>, gaining 907 million
-euros. <markup>Salzgitter</markup> is betting that <markup>Kloeckner-Werke</markup>'s business of
+euros. <markup>Salzgitter</markup> is betting that <markup>Kloeckner-Werke</markup> 's business of
 building machines used to fill bottles generates steadier
 earnings than selling steel. European steel prices reached a two-decade low in 2002, before surging to a record in 2005.  
   
@@ -31,7 +31,7 @@ valuation for the holding.
  <markup>Kloeckner-Werke</markup> had sales of more than 870 million euros
 last year, said <markup>Salzgitter</markup>, named after the German city where it
 is based. It has more than 5,000 employees, adding to
-<markup>Salzgitter</markup>'s existing 17,000 workers.  
+<markup>Salzgitter</markup> 's existing 17,000 workers.  
  <markup>Kloeckner-Werke</markup> aims to increase sales to 1 billion euros
 ``soon,'' and may itself buy smaller companies, Chief Executive
 Officer Roland Flach said today in an interview.  

@@ -2,7 +2,7 @@ A <markup>Ceridian Corp</markup>. unit didn't infringe
 a  Tennessee  company's patent on gift cards sold at store
 checkout stands, a federal jury said.  
  The jury in  Memphis  also found on Nov. 3 that <markup>Barry Fiala
-Inc</markup>.'s patent was invalid, because it covered an obvious
+Inc</markup> 's patent was invalid, because it covered an obvious
 variation of an earlier invention, and unenforceable because an
 inventor was omitted. <markup>Barry Fiala</markup>, named after its founder, will
 ask U.S. District Judge Samuel H. Mays Jr. to overturn the
@@ -12,7 +12,7 @@ Wal-Marts in late 1995 and 1996, there was no market,''
 Bretschneider said in a telephone interview. ``<markup>Barry Fiala</markup>
 created this market.''  
  <markup>Barry Fiala Inc</markup>. had sought at least $10 million in damages
-from <markup>Stored Value Systems</markup>, part of <markup>Ceridian</markup>'s Comdata unit.
+from <markup>Stored Value Systems</markup>, part of <markup>Ceridian</markup> 's Comdata unit.
 <markup>Stored Value</markup> makes gift cards for companies including <markup>Target
 Corp</markup>., <markup>J.C. Penney Co</markup>., said
 the unit's lawyer, Alan Fisch of Kaye Scholer in  Washington .  
