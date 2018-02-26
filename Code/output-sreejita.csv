@@ -828,19 +828,24 @@ Changan,222,144,144,1,0,0,1
 Beijing,222,159,159,0,0,0,0
 Caihua,222,162,162,0,0,0,0
 Mondeo,222,177,177,0,0,0,0
-China Banking Regulatory Commission,223,51,54,1,0,0,0
+China Banking Regulatory Commission,223,51,54,0,0,0,0
 China Construction Bank Corp,223,140,143,1,1,1,1
 And Commercial Bank,223,18,20,0,1,1,1
+China Banking Regulatory,223,51,53,0,0,1,1
+Banking Regulatory Commission,223,52,54,0,0,0,0
 And Commercial,223,18,19,0,0,1,1
 Commercial Bank,223,19,20,0,1,1,1
 Liu Mingkang,223,46,47,0,0,0,0
+China Banking,223,51,52,0,0,1,1
 Banking Regulatory,223,52,53,0,0,0,0
+Regulatory Commission,223,53,54,0,0,0,0
 A July,223,93,94,0,0,0,0
 Construction Bank,223,141,142,0,1,1,1
 China,223,0,0,0,0,1,1
 Chinese,223,27,27,0,0,0,0
 We,223,33,33,0,0,0,0
 Mingkang,223,47,47,0,0,0,0
+Commission,223,54,54,0,0,0,0
 Web,223,69,69,0,0,0,0
 China's,223,72,72,0,0,0,0
 Assets,223,111,111,0,0,0,0
@@ -1880,7 +1885,7 @@ Officer Stuart,253,37,38,0,0,0,0
 Stuart Burgdoerfer,253,38,39,0,0,0,0
 Columbus Ohio,253,50,51,0,0,0,0
 Limited Brands,253,53,54,1,0,1,1
-Victoria's Secret,253,80,81,1,0,0,0
+Victorias Secret,253,80,81,1,0,0,0
 And Body,253,84,85,0,0,0,0
 Limited Brands,253,127,128,1,0,1,1
 Limited Brands,253,132,133,1,0,1,1
@@ -2326,7 +2331,7 @@ News Corp,265,44,45,1,1,1,1
 Fox Business,265,101,102,0,0,0,0
 Business Network,265,102,103,0,0,0,0
 Bloomberg News,265,120,121,0,0,0,1
-Bloomberg LP,265,124,125,1,1,1,1
+Bloomberg LP,265,124,125,0,1,1,1
 News Corp,265,126,127,1,1,1,1
 Class A,265,128,129,0,0,0,0
 New York,265,140,141,0,0,0,0
@@ -3106,10 +3111,8 @@ Costs,287,190,190,0,0,0,0
 Stillwater,287,207,207,1,0,1,1
 Exchange,287,222,222,0,0,0,0
 Sun Pharmaceutical Industries Ltd,288,0,3,1,1,1,1
-Dr Reddy's Laboratories Ltd,288,206,209,1,1,1,1
 Watson Pharmaceuticals Inc,288,6,8,1,1,1,1
 Drug Administration Web,288,98,100,0,0,0,0
-Ranbaxy Laboratories Ltd,288,211,213,1,1,1,1
 Pharmaceutical Industries,288,1,2,0,1,1,1
 Novartis AG,288,20,21,1,1,1,1
 Sun Pharmaceutical,288,59,60,1,0,1,1
@@ -3121,8 +3124,6 @@ Sun Pharmaceutical,288,102,103,1,0,1,1
 Sun Pharmaceutical,288,145,146,1,0,1,1
 Sun Pharmaceutical,288,173,174,1,0,1,1
 New York,288,194,195,0,0,0,0
-Basel Switzerland,288,199,200,0,0,0,0
-Reddy's Laboratories,288,207,208,0,0,0,1
 SUNP,288,4,4,0,0,0,0
 WPI,288,9,9,0,0,0,0
 Exelon,288,26,26,0,0,0,0
@@ -3142,9 +3143,6 @@ Exelon,288,161,161,0,0,0,0
 Novartis,288,168,168,1,0,1,1
 Watson,288,176,176,1,0,1,1
 Exelon,288,182,182,0,0,0,0
-Novartis,288,196,196,1,0,1,1
-Switzerland,288,200,200,0,0,0,0
-Indian,288,204,204,0,0,0,0
 La Fea Mas Bella The,289,17,21,0,0,0,0
 La Fea Mas Bella,289,17,20,0,0,0,0
 Fea Mas Bella The,289,18,21,0,0,0,0
@@ -3279,8 +3277,8 @@ Adam Crozier,291,96,97,0,0,0,0
 TNT NV,291,118,119,1,1,1,1
 Royal Mail,291,133,134,1,0,1,1
 Royal Mail,291,181,182,1,0,1,1
-Royal Mail's,291,212,213,1,0,1,1
-Dave Ward,291,235,236,0,0,0,0
+Royal Mail,291,212,213,1,0,1,1
+Dave Ward,291,236,237,0,0,0,0
 UK,291,0,0,0,0,0,0
 CWU,291,66,66,0,0,0,0
 June,291,85,85,0,0,0,0
@@ -3289,8 +3287,8 @@ Britain,291,121,121,0,0,0,0
 Crozier,291,143,143,0,0,0,0
 Workers,291,184,184,0,0,0,0
 April,291,194,194,0,0,0,0
-Ward,291,236,236,0,0,0,0
-CWU's,291,238,238,0,0,0,0
+Ward,291,237,237,0,0,0,0
+CWU's,291,239,239,0,0,0,0
 Virgin America Inc,292,0,2,1,1,1,1
 Transportation Statistics' Web,292,55,57,0,0,0,0
 Southwest Airlines Co,292,124,126,1,1,1,1
