@@ -13,7 +13,7 @@ return money to shareholders.
 unit ACTS after selling a 70 percent stake to <markup>Kohlberg Kravis
 Roberts & Co.</markup> in June. <markup>ACE</markup> owns 75 percent of <markup>Air Canada</markup> and
 20.1 percent of the <markup>Aeroplan Income Fund</markup>, which runs <markup>Air
-Canada</markup>'s frequent-flyer loyalty program.  
+Canada</markup> 's frequent-flyer loyalty program.  
  <markup>ACE</markup> fell C$1.54, or 5.9 percent, to C$24.40 at 4:10 p.m. in
 Toronto Stock Exchange trading. <markup>Jazz</markup> gained 23 cents, or 3.2
 percent, to C$7.44.  

@@ -3,9 +3,9 @@ second-largest U.S. maker of slot machines, said a U.S. court
 ruled in its favor, rejecting patent-violation claims by
 <markup>International Game Technology</markup> and <markup>Shuffle Master Inc.</markup>  
  The ruling by the U.S. District Court of Nevada found
-<markup>Bally</markup>'s MP21 table-game system didn't infringe on one patent and
+<markup>Bally</markup> 's MP21 table-game system didn't infringe on one patent and
 deemed a second patent invalid, <markup>Bally</markup> said today in a statement.
-The court's ruling dismisses  <markup>IGT</markup> (IGT)  and <markup>Shuffle Master</markup>'s case and
+The court's ruling dismisses  <markup>IGT</markup> (IGT)  and <markup>Shuffle Master</markup> 's case and
 leaves in place two counterclaims by <markup>Bally</markup>.  
  <markup>Bally</markup> and <markup>IGT</markup>, the world's largest slot machine maker, are
 in litigation over three additional patent-infringement issues

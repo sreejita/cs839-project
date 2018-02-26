@@ -14,7 +14,7 @@ that supplies power to John F. Kennedy International Airport in
 New York. Assumption became feasible when the price of natural
 gas decreased and the rate paid for the power increased.  
  <markup>Calpine</markup> stock closed yesterday at $3.70 a share, up 17
-cents. The highest closing price since <markup>Calpine</markup>'s Dec. 20, 2005,
+cents. The highest closing price since <markup>Calpine</markup> 's Dec. 20, 2005,
 Chapter 11 filing was $3.97 a share on April 25, 2007.  
  With 92 power plants in 21 states producing 26,500 megawatts
 when the reorganization began, <markup>Calpine</markup> generated enough power for

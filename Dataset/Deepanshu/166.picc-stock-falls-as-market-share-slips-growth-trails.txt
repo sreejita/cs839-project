@@ -4,7 +4,7 @@ the company reported declining market share and premiums that
 grew at about one-third the overall market rate.  
  <markup>PICC</markup> closed at HK$4.83, down 46 cents, in Hong Kong after
 the insurer collected 8.2 percent more premiums last year, while
-the nation's non-life insurance market grew 23 percent. <markup>PICC</markup>'s
+the nation's non-life insurance market grew 23 percent. <markup>PICC</markup> 's
 share of the market slid to 45.1 percent in 2006 from 51.5
 percent, according to its earnings statement.  
  As premium growth slows and competition rises, China's
@@ -16,7 +16,7 @@ more than tripled to 4 billion yuan.
  ``Market competition is very keen,'' said Dorris Chen
 Huanming, a Shanghai-based analyst at <markup>BNP Paribas SA.</markup> ``PICC had
 to pay significantly more in commissions to help policy sales.''  
- Bigger claim payouts and rising expenses pushed up <markup>PICC</markup>'s
+ Bigger claim payouts and rising expenses pushed up <markup>PICC</markup> 's
 so-called combined ratio, a measure of costs against premium
 income, to 98.9 percent last year, up from 97.2 percent. A ratio
 below 100 percent generally indicates profitability.  

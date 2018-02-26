@@ -1,35 +1,35 @@
 <markup>Aber Diamond Corp</markup>,201,0,2,1
-<markup>Rio Tinto Plc</markup>,201,94,96,1
-Robert Gannicott Gannicott,201,111,113,0
+<markup>Rio Tinto Plc</markup>,201,95,97,1
+Robert Gannicott Gannicott,201,112,114,0
 Harry Winston,201,7,8,0
-Northwest Territories,201,81,82,0
-Canadian Press,201,103,104,0
-Robert Gannicott,201,111,112,0
-Gannicott Gannicott,201,112,113,0
-Herald Sun,201,131,132,0
-<markup>Alcan Inc</markup>,201,154,155,1
+Northwest Territories,201,82,83,0
+Canadian Press,201,104,105,0
+Robert Gannicott,201,112,113,0
+Gannicott Gannicott,201,113,114,0
+Herald Sun,201,133,134,0
+<markup>Alcan Inc</markup>,201,156,157,1
 Diamond,201,1,1,0
 Harry,201,7,7,0
 Winston,201,8,8,0
 Canadian,201,34,34,0
-<markup>Aber</markup>'s,201,60,60,1
-<markup>Aber</markup>,201,70,70,1
-Diavik,201,77,77,0
-Northwest,201,81,81,0
-Territories,201,82,82,0
-Tinto,201,95,95,0
-Canadian,201,103,103,0
-Press,201,104,104,0
-<markup>Aber</markup>,201,107,107,1
-Robert,201,111,111,0
-Gannicott,201,112,112,0
+<markup>Aber</markup>,201,60,60,1
+<markup>Aber</markup>,201,71,71,1
+Diavik,201,78,78,0
+Northwest,201,82,82,0
+Territories,201,83,83,0
+Tinto,201,96,96,0
+Canadian,201,104,104,0
+Press,201,105,105,0
+<markup>Aber</markup>,201,108,108,1
+Robert,201,112,112,0
 Gannicott,201,113,113,0
-<markup>Aber</markup>,201,116,116,1
-<markup>Rio</markup>'s,201,124,124,1
-Herald,201,131,131,0
-Sun,201,132,132,0
-<markup>Rio</markup>,201,139,139,1
-Diavik,201,146,146,0
+Gannicott,201,114,114,0
+<markup>Aber</markup>,201,117,117,1
+<markup>Rio</markup>,201,125,125,1
+Herald,201,133,133,0
+Sun,201,134,134,0
+<markup>Rio</markup>,201,141,141,1
+Diavik,201,148,148,0
 <markup>Kohlberg Kravis Roberts And Co</markup>,202,110,114,1
 <markup>ACE Aviation Holdings Inc</markup>,202,0,3,1
 <markup>Jazz Air Income Fund</markup>,202,14,17,1
@@ -48,7 +48,7 @@ Robert Milton,202,78,79,0
 Kravis Roberts,202,111,112,0
 Roberts And,202,112,113,0
 <markup>Air Canada</markup>,202,122,123,1
-<markup>Air Canada</markup>'s,202,134,135,1
+<markup>Air Canada</markup>,202,134,135,1
 Aviation,202,1,1,0
 Air,202,15,15,0
 Income,202,16,16,0
@@ -60,8 +60,8 @@ Kravis,202,111,111,0
 Roberts,202,112,112,0
 <markup>ACE</markup>,202,117,117,1
 Income,202,130,130,0
-<markup>ACE</markup>,202,139,139,1
-<markup>Jazz</markup>,202,155,155,1
+<markup>ACE</markup>,202,140,140,1
+<markup>Jazz</markup>,202,156,156,1
 <markup>ACE Aviation Holdings Inc</markup>,203,61,64,1
 Mont Tremblant Quebec,203,52,54,0
 <markup>Transat AT Inc</markup>,203,130,132,1
@@ -157,15 +157,15 @@ This,205,173,173,0
 Frankfurt,205,201,201,0
 <markup>Ambac Financial Group Inc</markup>,206,0,3,1
 Sean T Leonard,206,70,72,0
-Band-Aid Robert Haines,206,163,165,0
+Band-Aid Robert Haines,206,164,166,0
 Financial Group,206,1,2,0
 Michael Callen,206,65,66,0
 Sean T,206,70,71,0
 T Leonard,206,71,72,0
-Band-Aid Robert,206,163,164,0
-Robert Haines,206,164,165,0
-<markup>CreditSights Inc</markup>,206,169,170,1
-Television Haines,206,185,186,0
+Band-Aid Robert,206,164,165,0
+Robert Haines,206,165,166,0
+<markup>CreditSights Inc</markup>,206,170,171,1
+Television Haines,206,186,187,0
 <markup>Ambac</markup>,206,34,34,1
 New,206,43,43,0
 Michael,206,65,65,0
@@ -175,15 +175,15 @@ Leonard,206,72,72,0
 New,206,88,88,0
 <markup>Ambac</markup>,206,90,90,1
 While,206,100,100,0
-<markup>Ambac</markup>'s,206,117,117,1
-<markup>Ambac</markup>,206,124,124,1
-Band-Aid,206,163,163,0
-Robert,206,164,164,0
-Haines,206,165,165,0
-New,206,177,177,0
-Television,206,185,185,0
-Haines,206,186,186,0
-<markup>Ambac</markup>,206,193,193,1
+<markup>Ambac</markup>,206,117,117,1
+<markup>Ambac</markup>,206,125,125,1
+Band-Aid,206,164,164,0
+Robert,206,165,165,0
+Haines,206,166,166,0
+New,206,178,178,0
+Television,206,186,186,0
+Haines,206,187,187,0
+<markup>Ambac</markup>,206,194,194,1
 US Federal Reserve,207,20,22,0
 The Federal Reserve,207,60,62,0
 <markup>Amerigroup Corp</markup>,207,0,1,1
@@ -203,40 +203,40 @@ Reserve,207,62,62,0
 <markup>Amerigroup</markup>,207,87,87,1
 <markup>Antisoma Plc</markup>,208,0,1,1
 <markup>Novartis AG</markup>,208,10,11,1
-London The,208,135,136,0
+London The,208,136,137,0
 Swiss,208,19,19,0
 <markup>Antisoma</markup>,208,55,55,1
 <markup>Novartis</markup>,208,61,61,1
-<markup>Antisoma</markup>'s,208,68,68,1
-<markup>Novartis</markup>,208,80,80,1
-Switzerland's,208,81,81,0
-<markup>Antisoma</markup>,208,89,89,1
-<markup>Novartis</markup>,208,112,112,1
-<markup>Antisoma</markup>,208,127,127,1
+<markup>Antisoma</markup>,208,68,68,1
+<markup>Novartis</markup>,208,81,81,1
+Switzerland's,208,82,82,0
+<markup>Antisoma</markup>,208,90,90,1
+<markup>Novartis</markup>,208,113,113,1
+<markup>Antisoma</markup>,208,128,128,1
 <markup>Bally Technologies Inc</markup>,209,0,2,1
 <markup>International Game Technology</markup>,209,23,25,1
 <markup>Shuffle Master Inc</markup>,209,27,29,1
 US District Court,209,34,36,0
 US District,209,34,35,0
 District Court,209,35,36,0
-<markup>Shuffle Master</markup>'s,209,68,69,1
+<markup>Shuffle Master</markup>,209,69,70,1
 Technologies,209,1,1,0
 Game,209,24,24,0
 Master,209,28,28,0
 District,209,35,35,0
 Court,209,36,36,0
 Nevada,209,38,38,0
-<markup>Bally</markup>'s,209,40,40,1
-<markup>Bally</markup>,209,55,55,1
-<markup>IGT</markup>,209,65,65,1
-<markup>Bally</markup>,209,78,78,1
-<markup>Bally</markup>,209,79,79,1
-<markup>IGT</markup>,209,81,81,1
-Two,209,109,109,0
-<markup>Bally</markup>,209,123,123,1
-Las,209,126,126,0
-Vegas,209,127,127,0
-New,209,139,139,0
+<markup>Bally</markup>,209,40,40,1
+<markup>Bally</markup>,209,56,56,1
+<markup>IGT</markup>,209,66,66,1
+<markup>Bally</markup>,209,80,80,1
+<markup>Bally</markup>,209,81,81,1
+<markup>IGT</markup>,209,83,83,1
+Two,209,111,111,0
+<markup>Bally</markup>,209,125,125,1
+Las,209,128,128,0
+Vegas,209,129,129,0
+New,209,141,141,0
 <markup>China Construction Bank Corp</markup>,210,85,88,1
 <markup>HSBC Holdings Plc</markup>,210,7,9,1
 And Commercial Bank,210,78,80,0
@@ -256,8 +256,8 @@ Community Relations Ian Wood,211,38,41,0
 <markup>BHP Billiton Ltd</markup>,211,0,2,1
 Community Relations Ian,211,38,40,0
 Relations Ian Wood,211,39,41,0
-Spencer Gulf Production,211,167,169,0
-<markup>WMC Resources Ltd</markup>,211,246,248,1
+Spencer Gulf Production,211,168,170,0
+<markup>WMC Resources Ltd</markup>,211,247,249,1
 Olympic Dam,211,20,21,0
 Australia Access,211,24,25,0
 Community Relations,211,38,39,0
@@ -267,12 +267,12 @@ Olympic Dam,211,77,78,0
 Spencer Gulf,211,138,139,0
 Roxby Downs,211,141,142,0
 South Australia,211,144,145,0
-Illtud Harri,211,150,151,0
-Roxby Downs,211,156,157,0
-Spencer Gulf,211,167,168,0
-Gulf Production,211,168,169,0
-Marius Kloppers,211,193,194,0
-Olympic Dam,211,241,242,0
+Illtud Harri,211,151,152,0
+Roxby Downs,211,157,158,0
+Spencer Gulf,211,168,169,0
+Gulf Production,211,169,170,0
+Marius Kloppers,211,194,195,0
+Olympic Dam,211,242,243,0
 Billiton,211,1,1,0
 Olympic,211,20,20,0
 Dam,211,21,21,0
@@ -294,22 +294,22 @@ Gulf,211,139,139,0
 Roxby,211,141,141,0
 Downs,211,142,142,0
 South,211,144,144,0
-<markup>BHP</markup>'s,211,147,147,1
-Illtud,211,150,150,0
-Harri,211,151,151,0
-Roxby,211,156,156,0
-Downs,211,157,157,0
-Spencer,211,167,167,0
-Gulf,211,168,168,0
-Production,211,169,169,0
-<markup>BHP</markup>,211,189,189,1
-Marius,211,193,193,0
-Kloppers,211,194,194,0
-<markup>BHP</markup>,211,209,209,1
-Times,211,227,227,0
-<markup>BHP</markup>,211,237,237,1
-Olympic,211,241,241,0
-Dam,211,242,242,0
+<markup>BHP</markup>,211,147,147,1
+Illtud,211,151,151,0
+Harri,211,152,152,0
+Roxby,211,157,157,0
+Downs,211,158,158,0
+Spencer,211,168,168,0
+Gulf,211,169,169,0
+Production,211,170,170,0
+<markup>BHP</markup>,211,190,190,1
+Marius,211,194,194,0
+Kloppers,211,195,195,0
+<markup>BHP</markup>,211,210,210,1
+Times,211,228,228,0
+<markup>BHP</markup>,211,238,238,1
+Olympic,211,242,242,0
+Dam,211,243,243,0
 <markup>Bright Dairy And Food Co</markup>,212,0,4,1
 Dairy And Food,212,1,3,0
 The National Development,212,165,167,0
@@ -461,22 +461,22 @@ Gron,215,154,154,0
 Carlsberg,215,178,178,0
 <markup>Scottish And Newcastle Plc</markup>,216,18,21,1
 <markup>Baltic Beverages Holding AB</markup>,216,92,95,1
-<markup>Molson Coors Brewing Co</markup>,216,253,256,1
-Jens Peter Skaarup,216,162,164,0
-Renaissance Capital Brewing,216,238,240,0
-<markup>Anheuser- Busch Cos</markup>,216,269,271,1
+<markup>Molson Coors Brewing Co</markup>,216,254,257,1
+Jens Peter Skaarup,216,163,165,0
+Renaissance Capital Brewing,216,239,241,0
+<markup>Anheuser- Busch Cos</markup>,216,270,272,1
 <markup>Carlsberg A/S</markup>,216,0,1,1
 And Newcastle,216,19,20,0
 The European,216,30,31,0
 European Union's,216,35,36,0
 <markup>Heineken NV</markup>,216,63,64,1
 Beverages Holding,216,93,94,0
-Jens Peter,216,162,163,0
-Peter Skaarup,216,163,164,0
-Renaissance Capital,216,238,239,0
-Capital Brewing,216,239,240,0
-<markup>SABMiller Plc</markup>,216,244,245,1
-Coors Brewing,216,254,255,0
+Jens Peter,216,163,164,0
+Peter Skaarup,216,164,165,0
+Renaissance Capital,216,239,240,0
+Capital Brewing,216,240,241,0
+<markup>SABMiller Plc</markup>,216,245,246,1
+Coors Brewing,216,255,256,0
 Danish,216,5,5,0
 European,216,8,8,0
 Foster's,216,25,25,0
@@ -494,24 +494,24 @@ Dutch,216,98,98,0
 SAndN,216,101,101,0
 <markup>Carlsberg</markup>,216,108,108,1
 <markup>Heineken</markup>,216,117,117,1
-<markup>Heineken</markup>'s,216,125,125,1
-Irish,216,140,140,0
-<markup>Carlsberg</markup>,216,160,160,1
-Jens,216,162,162,0
-Peter,216,163,163,0
-Skaarup,216,164,164,0
-<markup>SAndN</markup>,216,183,183,1
-<markup>SAndN</markup>,216,193,193,1
-<markup>Carlsberg</markup>,216,195,195,1
-<markup>BBH</markup>,216,197,197,1
-Baltika,216,214,214,0
-Nevskoye,216,216,216,0
-Retail,216,218,218,0
-Renaissance,216,238,238,0
-Brewing,216,240,240,0
-Coors,216,254,254,0
-Brewing,216,255,255,0
-Busch,216,270,270,0
+<markup>Heineken</markup>,216,125,125,1
+Irish,216,141,141,0
+<markup>Carlsberg</markup>,216,161,161,1
+Jens,216,163,163,0
+Peter,216,164,164,0
+Skaarup,216,165,165,0
+<markup>SAndN</markup>,216,184,184,1
+<markup>SAndN</markup>,216,194,194,1
+<markup>Carlsberg</markup>,216,196,196,1
+<markup>BBH</markup>,216,198,198,1
+Baltika,216,215,215,0
+Nevskoye,216,217,217,0
+Retail,216,219,219,0
+Renaissance,216,239,239,0
+Brewing,216,241,241,0
+Coors,216,255,255,0
+Brewing,216,256,256,0
+Busch,216,271,271,0
 Jose Luis Duran,217,71,73,0
 Billionaire Bernard Arnault,217,77,79,0
 <markup>Colony Capital LLC</markup>,217,86,88,1
@@ -525,8 +525,8 @@ Luis Duran,217,72,73,0
 Billionaire Bernard,217,77,78,0
 Bernard Arnault,217,78,79,0
 <markup>Arnault Groupe</markup>,217,81,82,1
-<markup>Blue Capital</markup>,217,99,100,1
-<markup>Blue Capital</markup>,217,101,102,1
+<markup>Blue Capital</markup>,217,100,101,1
+<markup>Blue Capital</markup>,217,102,103,1
 Europe's,217,21,21,0
 Members,217,24,24,0
 <markup>Carrefour</markup>,217,38,38,1
@@ -537,9 +537,9 @@ Duran,217,73,73,0
 Billionaire,217,77,77,0
 Bernard,217,78,78,0
 Arnault,217,79,79,0
-<markup>Carrefour</markup>'s,217,93,93,1
-<markup>Carrefour</markup>'s,217,110,110,1
-<markup>Carrefour</markup>'s,217,131,131,1
+<markup>Carrefour</markup>,217,93,93,1
+<markup>Carrefour</markup>,217,111,111,1
+<markup>Carrefour</markup>,217,133,133,1
 <markup>Cell Genesys Inc</markup>,218,0,2,1
 <markup>Takeda Pharmaceutical Co</markup>,218,28,30,1
 The South San,218,31,33,0
@@ -562,14 +562,14 @@ Fitzgerald,218,159,159,0
 New,218,161,161,0
 Bassett,218,205,205,0
 <markup>Central European Media Enterprises Ltd</markup>,219,0,4,1
-<markup>Central European Media Enterprises</markup>'s,219,82,85,1
+<markup>Central European Media Enterprises</markup>,219,82,85,1
 European Media Enterprises,219,1,3,0
 European Media,219,1,2,0
 Media Enterprises,219,2,3,0
 Hamilton Bermuda-registered,219,46,47,0
 European Media,219,83,84,0
-Ukraine Results,219,132,133,0
-Michael Garin,219,150,151,0
+Ukraine Results,219,133,134,0
+Michael Garin,219,151,152,0
 European,219,1,1,0
 Media,219,2,2,0
 Enterprises,219,3,3,0
@@ -577,13 +577,13 @@ Bermuda-registered,219,47,47,0
 Sales,219,72,72,0
 European,219,83,83,0
 Media,219,84,84,0
-Results,219,133,133,0
-Michael,219,150,150,0
-Garin,219,151,151,0
-Ukrainian,219,166,166,0
-Operating,219,168,168,0
-Earnings,219,186,186,0
-Web,219,211,211,0
+Results,219,134,134,0
+Michael,219,151,151,0
+Garin,219,152,152,0
+Ukrainian,219,167,167,0
+Operating,219,169,169,0
+Earnings,219,187,187,0
+Web,219,212,212,0
 <markup>Centro Properties Group</markup>,220,0,2,1
 MSCI MXWO World,220,230,232,0
 Andrew Scott,220,27,28,0
@@ -624,12 +624,12 @@ Borrowing,221,54,54,0
 <markup>Centro</markup>,221,113,113,1
 Since,221,147,147,0
 <markup>Centro</markup>,221,169,169,1
-<markup>Chongqing Changan Automobile Co</markup>,222,0,3,1
+s<markup>Chongqing Changan Automobile Co</markup>,222,0,3,1
 <markup>Ford Motor Co</markup>,222,9,11,1
 <markup>Mazda Motor Corp</markup>,222,14,16,1
-<markup>Guodu Securities Co</markup>'s,222,154,156,1
+<markup>Guodu Securities Co</markup>,222,155,157,1
 Changan Automobile,222,1,2,0
-Xu Caihua,222,159,160,0
+Xu Caihua,222,161,162,0
 Changan,222,1,1,0
 Automobile,222,2,2,0
 Chinese,222,6,6,0
@@ -648,10 +648,10 @@ Focus,222,121,121,0
 Last,222,123,123,0
 <markup>Ford</markup>,222,137,137,1
 Mondeo,222,138,138,0
-<markup>Changan</markup>'s,222,144,144,1
-Xu,222,159,159,0
-Caihua,222,160,160,0
-Mondeo,222,175,175,0
+<markup>Changan</markup>,222,144,144,1
+Xu,222,161,161,0
+Caihua,222,162,162,0
+Mondeo,222,177,177,0
 <markup>China Banking Regulatory Commission</markup>,223,51,54,1
 <markup>China Construction Bank Corp</markup>,223,140,143,1
 And Commercial Bank,223,18,20,0
@@ -690,8 +690,8 @@ Yang I,224,57,58,0
 <markup>Agricultural Bank</markup>,224,67,68,1
 <markup>China Development</markup>,224,70,71,1
 <markup>China Life</markup>,224,92,93,1
-<markup>Chinas Life</markup>'s,224,137,138,1
-<markup>China Life</markup>,224,153,154,1
+<markup>Chinas Life</markup>,224,137,138,1
+<markup>China Life</markup>,224,154,155,1
 Life,224,1,1,0
 Insurance,224,2,2,0
 Development,224,17,17,0
@@ -708,55 +708,55 @@ I'm,224,73,73,0
 China's,224,77,77,0
 Yang,224,112,112,0
 Future,224,130,130,0
-Yang,224,152,152,0
-Beverage Digest The Odwalla,225,146,149,0
+Yang,224,153,153,0
+Beverage Digest The Odwalla,225,147,150,0
 Odwalla Serious Energy,225,31,33,0
-Beverage Digest The,225,107,109,0
-Beverage Digest The,225,146,148,0
-Digest The Odwalla,225,147,149,0
-<markup>Red Bull GmbH</markup>,225,196,198,1
-<markup>Hansen Natural Corp</markup>'s,225,202,204,1
+Beverage Digest The,225,108,110,0
+Beverage Digest The,225,147,149,0
+Digest The Odwalla,225,148,150,0
+<markup>Red Bull GmbH</markup>,225,197,199,1
+<markup>Hansen Natural Corp</markup>,225,203,205,1
 <markup>Coca-Cola Co</markup>,225,0,1,1
 Odwalla Serious,225,31,32,0
 Serious Energy,225,32,33,0
-Full Throttle,225,96,97,0
-Tab Energy,225,99,100,0
-Beverage Digest,225,107,108,0
-Digest The,225,108,109,0
-Beverage Digest,225,146,147,0
-Digest The,225,147,148,0
-The Odwalla,225,148,149,0
-Ray Crockett,225,185,186,0
-Monster Energy,225,205,206,0
+Full Throttle,225,97,98,0
+Tab Energy,225,100,101,0
+Beverage Digest,225,108,109,0
+Digest The,225,109,110,0
+Beverage Digest,225,147,148,0
+Digest The,225,148,149,0
+The Odwalla,225,149,150,0
+Ray Crockett,225,186,187,0
+Monster Energy,225,207,208,0
 Odwalla,225,16,16,0
 Odwalla,225,31,31,0
 Serious,225,32,32,0
 Energy,225,33,33,0
 <markup>Coca-Cola</markup>,225,44,44,1
 <markup>Coca-Cola</markup>,225,62,62,1
-<markup>Coca-Cola</markup>'s,225,82,82,1
-Full,225,96,96,0
-Throttle,225,97,97,0
-Tab,225,99,99,0
-Energy,225,100,100,0
-Beverage,225,107,107,0
-Digest,225,108,108,0
-North,225,120,120,0
-<markup>Coca-Cola</markup>,225,122,122,1
-Classic,225,123,123,0
-Beverage,225,146,146,0
-Digest,225,147,147,0
-Odwalla,225,149,149,0
-Some,225,169,169,0
-<markup>Coca-Cola</markup>,225,183,183,1
-Ray,225,185,185,0
-Crockett,225,186,186,0
-Bull,225,197,197,0
-Natural,225,203,203,0
-Monster,225,205,205,0
-Energy,225,206,206,0
-<markup>Coca-Cola</markup>,225,213,213,1
-New,225,226,226,0
+<markup>Coca-Cola</markup>,225,82,82,1
+Full,225,97,97,0
+Throttle,225,98,98,0
+Tab,225,100,100,0
+Energy,225,101,101,0
+Beverage,225,108,108,0
+Digest,225,109,109,0
+North,225,121,121,0
+<markup>Coca-Cola</markup>,225,123,123,1
+Classic,225,124,124,0
+Beverage,225,147,147,0
+Digest,225,148,148,0
+Odwalla,225,150,150,0
+Some,225,170,170,0
+<markup>Coca-Cola</markup>,225,184,184,1
+Ray,225,186,186,0
+Crockett,225,187,187,0
+Bull,225,198,198,0
+Natural,225,204,204,0
+Monster,225,207,207,0
+Energy,225,208,208,0
+<markup>Coca-Cola</markup>,225,215,215,1
+New,225,228,228,0
 The Markit CDX North America,226,31,35,0
 Markit CDX North America Investment,226,32,36,0
 CDX North America Investment Grade,226,33,37,0
@@ -764,7 +764,7 @@ The Markit CDX North,226,31,34,0
 Markit CDX North America,226,32,35,0
 CDX North America Investment,226,33,36,0
 North America Investment Grade,226,34,37,0
-<markup>Goldman Sachs Group Inc</markup>,226,229,232,1
+<markup>Goldman Sachs Group Inc</markup>,226,231,234,1
 The Markit CDX,226,31,33,0
 Markit CDX North,226,32,34,0
 CDX North America,226,33,35,0
@@ -772,8 +772,8 @@ North America Investment,226,34,36,0
 America Investment Grade,226,35,37,0
 <markup>Deutsche Bank AG</markup>,226,64,66,1
 New York The,226,68,70,0
-<markup>Standard And Poor</markup>'s,226,135,137,1
-Markit LCDX Series,226,217,219,0
+<markup>Standard And Poor</markup>,226,135,137,1
+Markit LCDX Series,226,219,221,0
 The Markit,226,31,32,0
 Markit CDX,226,32,33,0
 CDX North,226,33,34,0
@@ -782,23 +782,23 @@ Investment Grade,226,36,37,0
 York The,226,69,70,0
 The CDX,226,96,97,0
 David Wyss,226,129,130,0
-Markit LCDX,226,217,218,0
-LCDX Series,226,218,219,0
-Sachs Group,226,230,231,0
+Markit LCDX,226,219,220,0
+LCDX Series,226,220,221,0
+Sachs Group,226,232,233,0
 Markit,226,32,32,0
 North,226,34,34,0
 Investment,226,36,36,0
 Grade,226,37,37,0
 New,226,68,68,0
 Wyss,226,130,130,0
-New,226,139,139,0
-You've,226,147,147,0
-Supply,226,163,163,0
-Economists,226,182,182,0
-Fifty,226,197,197,0
-Markit,226,217,217,0
-Series,226,219,219,0
-Sachs,226,230,230,0
+New,226,140,140,0
+You've,226,148,148,0
+Supply,226,164,164,0
+Economists,226,184,184,0
+Fifty,226,199,199,0
+Markit,226,219,219,0
+Series,226,221,221,0
+Sachs,226,232,232,0
 Managing Member Peter K Seldin,227,110,114,0
 <markup>Centennial Energy Partners LLC</markup>,227,10,13,1
 Managing Member Peter K,227,110,113,0
@@ -839,7 +839,7 @@ Sapieha,227,129,129,0
 <markup>Compton</markup>,227,130,130,1
 Sapieha,227,158,158,0
 Energy,227,168,168,0
-<markup>Compton</markup>'s,227,178,178,1
+<markup>Compton</markup>,227,178,178,1
 <markup>OAO Comstar United Telesystems</markup>,228,0,3,1
 <markup>Digital Telephone Networks South</markup>,228,68,71,1
 <markup>OAO Moscow City Phone</markup>,228,174,177,1
@@ -862,42 +862,42 @@ Selective,228,103,103,0
 <markup>Comstar</markup>,228,112,112,1
 <markup>Comstar</markup>,228,140,140,1
 City,228,176,176,0
-<markup>Comstar</markup>'s,228,180,180,1
+<markup>Comstar</markup>,228,180,180,1
 <markup>OAO Comstar United Telesystems</markup>,229,0,3,1
 Comstar United,229,1,2,0
 Vladimir Yevtushenkov,229,6,7,0
-<markup>OAO Svyazinvest</markup>,229,54,55,1
+<markup>OAO Svyazinvest</markup>,229,55,56,1
 Comstar,229,1,1,0
 United,229,2,2,0
 Yevtushenkov,229,7,7,0
-<markup>Comstar</markup>'s,229,41,41,1
-<markup>Comstar</markup>,229,62,62,1
-<markup>Comstar</markup>,229,83,83,1
-Sept,229,95,95,0
-<markup>Comstar</markup>,229,111,111,1
-<markup>Plains Exploration And Production Co</markup>,230,189,193,1
-<markup>Satellite Asset Management LP</markup>,230,159,162,1
-<markup>Duquesne Capital Management LLC</markup>,230,184,187,1
+<markup>Comstar</markup>,229,41,41,1
+<markup>Comstar</markup>,229,63,63,1
+<markup>Comstar</markup>,229,84,84,1
+Sept,229,96,96,0
+<markup>Comstar</markup>,229,112,112,1
+<markup>Plains Exploration And Production Co</markup>,230,190,194,1
+<markup>Satellite Asset Management LP</markup>,230,160,163,1
+<markup>Duquesne Capital Management LLC</markup>,230,185,188,1
 <markup>McMoRan Exploration Co</markup>,230,0,2,1
 <markup>Exxon Mobil Corp</markup>,230,29,31,1
 <markup>Energy XXI Ltd</markup>,230,118,120,1
-<markup>Soros Fund Management</markup>,230,169,171,1
-Rosenblatt Gabriel Nechamkin,230,174,176,0
-Exploration And Production,230,190,192,0
+<markup>Soros Fund Management</markup>,230,170,172,1
+Rosenblatt Gabriel Nechamkin,230,175,177,0
+Exploration And Production,230,191,193,0
 Stanley Druckenmiller,230,13,14,0
 Lief Rosenblatt,230,16,17,0
 Blackbeard West,230,50,51,0
 <markup>Exxon Mobil</markup>,230,65,66,1
 <markup>Exxon Mobil</markup>,230,74,75,1
-<markup>Energy XXI</markup>'s,230,154,155,1
-Asset Management,230,160,161,0
-Rosenblatt Gabriel,230,174,175,0
-Gabriel Nechamkin,230,175,176,0
-Mark Sonnino,230,178,179,0
-Druckenmiller's Pittsburgh-,230,181,182,0
-Capital Management,230,185,186,0
-Exploration And,230,190,191,0
-And Production,230,191,192,0
+<markup>Energy XXI</markup>,230,154,155,1
+Asset Management,230,161,162,0
+Rosenblatt Gabriel,230,175,176,0
+Gabriel Nechamkin,230,176,177,0
+Mark Sonnino,230,179,180,0
+Druckenmiller's Pittsburgh-,230,182,183,0
+Capital Management,230,186,187,0
+Exploration And,230,191,192,0
+And Production,230,192,193,0
 Exploration,230,1,1,0
 Druckenmiller,230,14,14,0
 Lief,230,16,16,0
@@ -912,16 +912,16 @@ West,230,51,51,0
 <markup>McMoRan</markup>,230,95,95,1
 Blackbeard,230,101,101,0
 Unless,230,134,134,0
-Asset,230,160,160,0
-Rosenblatt,230,174,174,0
-Gabriel,230,175,175,0
-Nechamkin,230,176,176,0
-Mark,230,178,178,0
-Sonnino,230,179,179,0
-Druckenmiller's,230,181,181,0
-Pittsburgh-,230,182,182,0
-Exploration,230,190,190,0
-Production,230,192,192,0
+Asset,230,161,161,0
+Rosenblatt,230,175,175,0
+Gabriel,230,176,176,0
+Nechamkin,230,177,177,0
+Mark,230,179,179,0
+Sonnino,230,180,180,0
+Druckenmiller's,230,182,182,0
+Pittsburgh-,230,183,183,0
+Exploration,230,191,191,0
+Production,230,193,193,0
 <markup>Calyon Securities USA Inc</markup>,231,148,151,1
 <markup>RBC Capital Markets</markup>,231,58,60,1
 New York Johong,231,62,64,0
@@ -950,24 +950,24 @@ Williamson,231,206,206,0
 Byford,231,234,234,0
 Empire State Building,232,15,17,0
 New York Instead,232,23,25,0
-Western Europeans The,232,108,110,0
-<markup>NYC And Co</markup>,232,286,288,1
+Western Europeans The,232,109,111,0
+<markup>NYC And Co</markup>,232,287,289,1
 Bronagh Cullinan,232,0,1,0
 Empire State,232,15,16,0
 State Building,232,16,17,0
 York Instead,232,24,25,0
-<markup>Manolo Blahnik</markup>,232,94,95,1
-York City,232,102,103,0
-Western Europeans,232,108,109,0
-Europeans The,232,109,110,0
-Wall Street,232,130,131,0
-George Malkemus,232,163,164,0
-<markup>Manolo Blahnik</markup>,232,170,171,1
-Fifth Avenue,232,234,235,0
-Madison Avenue,232,237,238,0
-Michaela Gilles,232,240,241,0
-Duesseldorf Germany,232,251,252,0
-<markup>FAO Schwarz</markup>,232,259,260,1
+<markup>Manolo Blahnik</markup>,232,95,96,1
+York City,232,103,104,0
+Western Europeans,232,109,110,0
+Europeans The,232,110,111,0
+Wall Street,232,131,132,0
+George Malkemus,232,164,165,0
+<markup>Manolo Blahnik</markup>,232,171,172,1
+Fifth Avenue,232,235,236,0
+Madison Avenue,232,238,239,0
+Michaela Gilles,232,241,242,0
+Duesseldorf Germany,232,252,253,0
+<markup>FAO Schwarz</markup>,232,260,261,1
 Bronagh,232,0,0,0
 Statue,232,10,10,0
 Empire,232,15,15,0
@@ -976,27 +976,27 @@ Building,232,17,17,0
 New,232,23,23,0
 Instead,232,25,25,0
 From,232,91,91,0
-<markup>Macy</markup>'s,232,92,92,1
-New,232,101,101,0
-City,232,103,103,0
-Western,232,108,108,0
-Europeans,232,109,109,0
-Atlantic,232,112,112,0
-Wall,232,130,130,0
-Street,232,131,131,0
-Sex,232,154,154,0
-City',232,157,157,0
-Malkemus,232,164,164,0
-European,232,179,179,0
-It's,232,196,196,0
-Christmas,232,226,226,0
-Fifth,232,234,234,0
-Avenue,232,235,235,0
-Avenue,232,238,238,0
-Michaela,232,240,240,0
-Gilles,232,241,241,0
-Duesseldorf,232,251,251,0
-Foreigners,232,261,261,0
+<markup>Macy</markup>,232,92,92,1
+New,232,102,102,0
+City,232,104,104,0
+Western,232,109,109,0
+Europeans,232,110,110,0
+Atlantic,232,113,113,0
+Wall,232,131,131,0
+Street,232,132,132,0
+Sex,232,155,155,0
+City',232,158,158,0
+Malkemus,232,165,165,0
+European,232,180,180,0
+It's,232,197,197,0
+Christmas,232,227,227,0
+Fifth,232,235,235,0
+Avenue,232,236,236,0
+Avenue,232,239,239,0
+Michaela,232,241,241,0
+Gilles,232,242,242,0
+Duesseldorf,232,252,252,0
+Foreigners,232,262,262,0
 <markup>Fomento Economico Mexicano SAB</markup>,233,0,3,1
 GMODELOC Latin America,233,4,6,0
 Baja California Norte,233,164,166,0
@@ -1074,7 +1074,7 @@ Washington New,236,77,78,0
 For December,236,151,152,0
 <markup>Activision Inc</markup>,236,157,158,1
 Guitar Hero,236,161,162,0
-Super Mario,236,183,184,0
+Super Mario,236,184,185,0
 Video-game,236,0,0,0
 Wii,236,19,19,0
 Xbox,236,24,24,0
@@ -1107,9 +1107,9 @@ PlayStation,236,173,173,0
 Xbox,236,176,176,0
 <markup>NPD</markup>,236,178,178,1
 Two,236,180,180,0
-<markup>Nintendo</markup>'s,236,182,182,1
-Super,236,183,183,0
-Mario,236,184,184,0
+<markup>Nintendo</markup>,236,182,182,1
+Super,236,184,184,0
+Mario,236,185,185,0
 US Canada Europe,237,79,81,0
 Chairman Chaim Katzman,237,129,131,0
 <markup><markup>Ormat Industries Ltd</markup>,237,165,167,1
@@ -1290,7 +1290,7 @@ November The,242,98,99,0
 An Insurance,242,180,181,0
 Insurance Group,242,181,182,0
 Shanghai Its,242,200,201,0
-<markup>Ping An</markup>'s,242,221,222,1
+<markup>Ping An</markup>,242,221,222,1
 Life,242,1,1,0
 Insurance,242,2,2,0
 Chairman,242,44,44,0
@@ -1350,7 +1350,7 @@ Peter Wong,244,21,22,0
 May Its,244,85,86,0
 Chairman Jiang,244,132,133,0
 Jiang Chaoling,244,133,134,0
-Hong Kong-listed,244,139,140,0
+Hong Kong-listed,244,140,141,0
 Europe's,244,4,4,0
 Communications,244,15,15,0
 Peter,244,21,21,0
@@ -1370,10 +1370,10 @@ China's,244,105,105,0
 Chairman,244,132,132,0
 Jiang,244,133,133,0
 Chaoling,244,134,134,0
-<markup>Bocom</markup>'s,244,138,138,1
-Hong,244,139,139,0
-Kong-listed,244,140,140,0
-<markup>HSBC</markup>,244,163,163,1
+<markup>Bocom</markup>,244,138,138,1
+Hong,244,140,140,0
+Kong-listed,244,141,141,0
+<markup>HSBC</markup>,244,164,164,1
 <markup>Merriman Curhan Ford And Co</markup>,245,50,54,1
 Providence Rhode Island Excluding,245,148,151,0
 Curhan Ford And,245,51,53,0
@@ -1406,13 +1406,13 @@ Wechsler,245,189,189,0
 Richard,245,193,193,0
 Gelfond,245,194,194,0
 <markup>Merrill Lynch And Co</markup>,246,8,11,1
-<markup>PT Bumi Resources</markup>,246,148,150,1
+<markup>PT Bumi Resources</markup>,246,149,151,1
 Lynch And,246,9,10,0
 Australia AS51,246,22,23,0
 Southeast Asian,246,46,47,0
 <markup>Merrill Lynch</markup>,246,53,54,1
-<markup>Merrill Lynch</markup>'s,246,82,83,1
-Mark Matthews,246,87,88,0
+<markup>Merrill Lynch</markup>,246,82,83,1
+Mark Matthews,246,88,89,0
 Indonesia's,246,0,0,0
 Lynch,246,9,9,0
 Commodity,246,32,32,0
@@ -1420,31 +1420,31 @@ Southeast,246,46,46,0
 Asian,246,47,47,0
 Rising,246,61,61,0
 People,246,74,74,0
-Hong,246,84,84,0
-Mark,246,87,87,0
-Robust,246,92,92,0
-Indonesia's,246,104,104,0
-Bumi,246,149,149,0
-Asia's,246,160,160,0
-Demand,246,165,165,0
+Hong,246,85,85,0
+Mark,246,88,88,0
+Robust,246,93,93,0
+Indonesia's,246,105,105,0
+Bumi,246,150,150,0
+Asia's,246,161,161,0
+Demand,246,166,166,0
 <markup>Investor AB</markup>,247,0,1,1
 Swedish Wallenberg,247,4,5,0
 <markup>Ericsson AB</markup>,247,32,33,1
-<markup>Investor AB</markup>'s,247,76,77,1
-Boerje Ekholm,247,102,103,0
-<markup>Investor AB</markup>,247,151,152,1
-<markup>SEB AB</markup>,247,163,164,1
-<markup>Investor AB</markup>'s,247,168,169,1
+<markup>Investor AB</markup>,247,76,77,1
+Boerje Ekholm,247,104,105,0
+<markup>Investor AB</markup>,247,153,154,1
+<markup>SEB AB</markup>,247,165,166,1
+<markup>Investor AB</markup>,247,170,171,1
 Swedish,247,4,4,0
 Wallenberg,247,5,5,0
 Net,247,34,34,0
 Sept,247,39,39,0
-<markup>Investor</markup>'s,247,97,97,1
-Boerje,247,102,102,0
-Ekholm,247,103,103,0
-Rising,247,122,122,0
-Ekholm,247,140,140,0
-<markup>Ericsson</markup>,247,166,166,1
+<markup>Investor</markup>,247,98,98,1
+Boerje,247,104,104,0
+Ekholm,247,105,105,0
+Rising,247,124,124,0
+Ekholm,247,142,142,0
+<markup>Ericsson</markup>,247,168,168,1
 Finance Minister Brian Cowen,248,173,176,0
 <markup>European Central Bank</markup>,248,62,64,1
 <markup>National Irish Bank</markup>,248,120,122,1
@@ -1491,23 +1491,23 @@ Jersey City New,250,42,44,0
 Capital Group,250,1,2,0
 <markup>EdgeTrade Inc</markup>,250,15,16,1
 City New,250,43,44,0
-Thomas Joyce,250,75,76,0
+Thomas Joyce,250,76,77,0
 Nasdaq,250,8,8,0
 <markup>Knight</markup>,250,27,27,1
 <markup>EdgeTrade</markup>,250,40,40,1
 City,250,43,43,0
 New,250,44,44,0
-<markup>Knight</markup>'s,250,68,68,1
-Thomas,250,75,75,0
-Joyce,250,76,76,0
-<markup>Knight</markup>'s,250,84,84,1
-Commissions,250,94,94,0
-<markup>Knight</markup>'s,250,106,106,1
-<markup>EdgeTrade</markup>,250,118,118,1
-<markup>Knight</markup>,250,119,119,1
-It's,250,136,136,0
-Joyce,250,153,153,0
-So,250,170,170,0
+<markup>Knight</markup>,250,68,68,1
+Thomas,250,76,76,0
+Joyce,250,77,77,0
+<markup>Knight</markup>,250,85,85,1
+Commissions,250,96,96,0
+<markup>Knight</markup>,250,108,108,1
+<markup>EdgeTrade</markup>,250,121,121,1
+<markup>Knight</markup>,250,122,122,1
+It's,250,139,139,0
+Joyce,250,156,156,0
+So,250,173,173,0
 <markup>Knight Capital Group Inc</markup>,251,0,3,1
 <markup>Deephaven Capital Management LLC</markup>,251,88,91,1
 Jersey City New,251,43,45,0
@@ -1533,26 +1533,26 @@ Nasdaq,251,204,204,0
 Market,251,206,206,0
 Broker,251,230,230,0
 Dealer,251,231,231,0
-<markup>Investment Property Databank Ltd</markup>,252,117,120,1
+<markup>Investment Property Databank Ltd</markup>,252,118,121,1
 <markup>Liberty International Plc</markup>,252,0,2,1
-Property Databank,252,118,119,0
-David Fischel,252,163,164,0
-London The,252,180,181,0
-The FTSE,252,200,201,0
-Real Estate,252,203,204,0
+Property Databank,252,119,120,0
+David Fischel,252,164,165,0
+London The,252,181,182,0
+The FTSE,252,201,202,0
+Real Estate,252,204,205,0
 MetroCentre,252,5,5,0
 Sept,252,50,50,0
 Net,252,65,65,0
 <markup>Liberty</markup>,252,78,78,1
 Britain's,252,83,83,0
-<markup>Liberty</markup>'s,252,94,94,1
-Property,252,118,118,0
-Databank,252,119,119,0
-Retail,252,121,121,0
-Fischel,252,164,164,0
-<markup>Liberty</markup>,252,171,171,1
-Real,252,203,203,0
-Estate,252,204,204,0
+<markup>Liberty</markup>,252,94,94,1
+Property,252,119,119,0
+Databank,252,120,120,0
+Retail,252,122,122,0
+Fischel,252,165,165,0
+<markup>Liberty</markup>,252,172,172,1
+Real,252,204,204,0
+Estate,252,205,205,0
 <markup>Bath And Body Works</markup>,253,83,86,1
 <markup>White Barn Candle Co</markup>,253,141,144,1
 <markup>Limited Brands Inc</markup>,253,0,2,1
@@ -1575,7 +1575,7 @@ Barn,253,142,142,0
 Candle,253,143,143,0
 New,253,155,155,0
 <markup>Lockheed Martin Corp</markup>,254,0,2,1
-<markup>Northrop Grumman Corp</markup>,254,85,87,1
+<markup>Northrop Grumman Corp</markup>,254,86,88,1
 <markup>SAIC Inc</markup>,254,15,16,1
 Medicaid Services,254,32,33,0
 Centers,254,28,28,0
@@ -1586,12 +1586,12 @@ Services,254,33,33,0
 <markup>SAIC</markup>,254,55,55,1
 <markup>Lockheed</markup>,254,61,61,1
 <markup>SAIC</markup>,254,63,63,1
-<markup>Lockheed</markup>'s,254,82,82,1
-Grumman,254,86,86,0
-Work,254,108,108,0
-<markup>Lockheed</markup>,254,115,115,1
-<markup>SAIC</markup>,254,117,117,1
-Potential,254,140,140,0
+<markup>Lockheed</markup>,254,82,82,1
+Grumman,254,87,87,0
+Work,254,109,109,0
+<markup>Lockheed</markup>,254,116,116,1
+<markup>SAIC</markup>,254,118,118,1
+Potential,254,141,141,0
 <markup>Deutsche Lufthansa AG</markup>,255,0,2,1
 Germany's Transport Ministry,255,182,184,0
 LHA Germany's,255,3,4,0
@@ -1622,18 +1622,18 @@ Germany's,255,182,182,0
 Transport,255,183,183,0
 Ministry,255,184,184,0
 Iraqi Foreign Minister Hoshyar Zebari,256,59,63,0
-Russian Finance Minister Alexei Kudrin,256,191,195,0
+Russian Finance Minister Alexei Kudrin,256,192,196,0
 Iraqi Foreign Minister Hoshyar,256,59,62,0
 Foreign Minister Hoshyar Zebari,256,60,63,0
-Russian Finance Minister Alexei,256,191,194,0
-Finance Minister Alexei Kudrin,256,192,195,0
+Russian Finance Minister Alexei,256,192,195,0
+Finance Minister Alexei Kudrin,256,193,196,0
 Iraqi Foreign Minister,256,59,61,0
 Foreign Minister Hoshyar,256,60,62,0
 Minister Hoshyar Zebari,256,61,63,0
-World Energy Russia,256,170,172,0
-Russian Finance Minister,256,191,193,0
-Finance Minister Alexei,256,192,194,0
-Minister Alexei Kudrin,256,193,195,0
+World Energy Russia,256,171,173,0
+Russian Finance Minister,256,192,194,0
+Finance Minister Alexei,256,193,195,0
+Minister Alexei Kudrin,256,194,196,0
 Vagit Alekperov,256,0,1,0
 <markup>OAO Lukoil</markup>,256,11,12,1
 West Qurna-2,256,40,41,0
@@ -1646,15 +1646,15 @@ Saddam Hussein,256,80,81,0
 COP Iraq's,256,96,97,0
 West Qurna-2,256,114,115,0
 West Qurna-2,256,127,128,0
-<markup>BP Plc</markup>'s,256,165,166,1
-Statistical Review,256,167,168,0
-World Energy,256,170,171,0
-Energy Russia,256,171,172,0
-Russian Finance,256,191,192,0
-Finance Minister,256,192,193,0
-Minister Alexei,256,193,194,0
-Alexei Kudrin,256,194,195,0
-Persian Gulf,256,205,206,0
+<markup>BP Plc</markup>,256,165,166,1
+Statistical Review,256,168,169,0
+World Energy,256,171,172,0
+Energy Russia,256,172,173,0
+Russian Finance,256,192,193,0
+Finance Minister,256,193,194,0
+Minister Alexei,256,194,195,0
+Alexei Kudrin,256,195,196,0
+Persian Gulf,256,206,207,0
 Vagit,256,0,0,0
 Alekperov,256,1,1,0
 Alekperov,256,30,30,0
@@ -1686,56 +1686,56 @@ By,256,140,140,0
 Saudi,256,152,152,0
 Arabia,256,153,153,0
 Iran,256,155,155,0
-Statistical,256,167,167,0
-Review,256,168,168,0
-World,256,170,170,0
-Energy,256,171,171,0
-Iraqi,256,180,180,0
-Zebari's,256,183,183,0
-Minister,256,193,193,0
-Alexei,256,194,194,0
-Kudrin,256,195,195,0
-Persian,256,205,205,0
-Gulf,256,206,206,0
+Statistical,256,168,168,0
+Review,256,169,169,0
+World,256,171,171,0
+Energy,256,172,172,0
+Iraqi,256,181,181,0
+Zebari's,256,184,184,0
+Minister,256,194,194,0
+Alexei,256,195,195,0
+Kudrin,256,196,196,0
+Persian,256,206,206,0
+Gulf,256,207,207,0
 <markup>MAN AG</markup>,257,0,1,1
 <markup>Scania AB</markup>,257,11,12,1
-Ekkehard Schulz,257,53,54,0
-<markup>ThyssenKrupp AG</markup>,257,79,80,1
-Hakan Samuelsson,257,130,131,0
-Wieland Schmitz,257,167,168,0
-<markup>Volkswagen AG</markup>,257,191,192,1
-<markup>Investor AB</markup>,257,195,196,1
+Ekkehard Schulz,257,54,55,0
+<markup>ThyssenKrupp AG</markup>,257,80,81,1
+Hakan Samuelsson,257,133,134,0
+Wieland Schmitz,257,170,171,0
+<markup>Volkswagen AG</markup>,257,194,195,1
+<markup>Investor AB</markup>,257,198,199,1
 German,257,3,3,0
 Swedish,257,28,28,0
 <markup>Scania</markup>,257,34,34,1
 <markup>MAN</markup>,257,41,41,1
-<markup>Scania</markup>'s,257,44,44,1
-Ekkehard,257,53,53,0
-Schulz,257,54,54,0
-Swedish,257,59,59,0
-Soedertaelje,257,63,63,0
-<markup>Scania</markup>,257,65,65,1
-Schulz,257,71,71,0
-German,257,77,77,0
-<markup>MAN</markup>'s,257,83,83,1
-<markup>MAN</markup>'s,257,86,86,1
-Swedish,257,94,94,0
-<markup>Scania</markup>,257,106,106,1
-Shareholders,257,108,108,0
-Swedish,257,114,114,0
-<markup>MAN</markup>,257,126,126,1
-Hakan,257,130,130,0
-Samuelsson,257,131,131,0
-<markup>Scania</markup>,257,137,137,1
-<markup>Scania</markup>,257,162,162,1
-<markup>MAN</markup>,257,165,165,1
-Wieland,257,167,167,0
-Schmitz,257,168,168,0
-<markup>Scania</markup>,257,177,177,1
-Samuelsson's,257,179,179,0
-<markup>Scania</markup>,257,186,186,1
-<markup>Scania</markup>'s,257,198,198,1
-<markup>MAN</markup>'s,257,202,202,1
+<markup>Scania</markup>,257,44,44,1
+Ekkehard,257,54,54,0
+Schulz,257,55,55,0
+Swedish,257,60,60,0
+Soedertaelje,257,64,64,0
+<markup>Scania</markup>,257,66,66,1
+Schulz,257,72,72,0
+German,257,78,78,0
+<markup>MAN</markup>,257,84,84,1
+<markup>MAN</markup>,257,88,88,1
+Swedish,257,97,97,0
+<markup>Scania</markup>,257,109,109,1
+Shareholders,257,111,111,0
+Swedish,257,117,117,0
+<markup>MAN</markup>,257,129,129,1
+Hakan,257,133,133,0
+Samuelsson,257,134,134,0
+<markup>Scania</markup>,257,140,140,1
+<markup>Scania</markup>,257,165,165,1
+<markup>MAN</markup>,257,168,168,1
+Wieland,257,170,170,0
+Schmitz,257,171,171,0
+<markup>Scania</markup>,257,180,180,1
+Samuelsson's,257,182,182,0
+<markup>Scania</markup>,257,189,189,1
+<markup>Scania</markup>,257,201,201,1
+<markup>MAN</markup>,257,206,206,1
 <markup>Ambac Financial Group Inc</markup>,258,4,7,1
 <markup>Security Capital Assurance Ltd</markup>,258,122,125,1
 <markup>Assured Guaranty Ltd</markup>,258,117,119,1
@@ -1827,12 +1827,12 @@ Diego-,261,162,162,0
 <markup>Leap</markup>,261,164,164,1
 Nasdaq,261,174,174,0
 Market,261,176,176,0
-<markup>Leap</markup>'s,261,182,182,1
-<markup>MetroPCS</markup>,261,184,184,1
-<markup>Leap</markup>,261,191,191,1
-<markup>MetroPCS</markup>'s,261,197,197,1
-Officials,261,209,209,0
-<markup>Leap</markup>,261,223,223,1
+<markup>Leap</markup>,261,182,182,1
+<markup>MetroPCS</markup>,261,185,185,1
+<markup>Leap</markup>,261,192,192,1
+<markup>MetroPCS</markup>,261,198,198,1
+Officials,261,211,211,0
+<markup>Leap</markup>,261,225,225,1
 <markup>Ambac Financial Group Inc</markup>,262,7,10,1
 <markup>Security Capital Assurance Ltd</markup>,262,138,141,1
 Armonk New York,262,133,135,0
@@ -1944,21 +1944,21 @@ Paul,264,227,227,0
 Authors,264,233,233,0
 Guild,264,234,234,0
 Fox Business Network,265,4,6,0
-<markup>Compaq Computer Corp</markup>,265,72,74,1
-Fox Business Network,265,100,102,0
-<markup>General Electric Co</markup>,265,112,114,1
+<markup>Compaq Computer Corp</markup>,265,73,75,1
+Fox Business Network,265,101,103,0
+<markup>General Electric Co</markup>,265,113,115,1
 <markup>News Corp</markup>,265,0,1,1
 Fox Business,265,4,5,0
 Business Network,265,5,6,0
 <markup>Hewlett-Packard Co</markup>,265,9,10,1
 Carly Fiorina,265,14,15,0
 <markup>News Corp</markup>,265,44,45,1
-Fox Business,265,100,101,0
-Business Network,265,101,102,0
-<markup>Bloomberg LP</markup>,265,123,124,1
-<markup>News Corp</markup>,265,125,126,1
-Class A,265,127,128,0
-<markup>General Electric</markup>,265,154,155,1
+Fox Business,265,101,102,0
+Business Network,265,102,103,0
+<markup>Bloomberg LP</markup>,265,124,125,1
+<markup>News Corp</markup>,265,126,127,1
+Class A,265,128,129,0
+<markup>General Electric</markup>,265,155,156,1
 Fox,265,4,4,0
 Business,265,5,5,0
 Network,265,6,6,0
@@ -1969,16 +1969,16 @@ Alto,265,26,26,0
 <markup>Hewlett-Packard</markup>,265,28,28,1
 Fortune,265,41,41,0
 CEO's,265,53,53,0
-<markup>Hewlett-Packard</markup>'s,265,62,62,1
-Fiorina,265,65,65,0
-Computer,265,73,73,0
-Fiorina,265,84,84,0
-Fox,265,100,100,0
-Business,265,101,101,0
-Network,265,102,102,0
-Electric,265,113,113,0
-Class,265,127,127,0
-New,265,139,139,0
+<markup>Hewlett-Packard</markup>,265,62,62,1
+Fiorina,265,66,66,0
+Computer,265,74,74,0
+Fiorina,265,85,85,0
+Fox,265,101,101,0
+Business,265,102,102,0
+Network,265,103,103,0
+Electric,265,114,114,0
+Class,265,128,128,0
+New,265,140,140,0
 <markup>Nexans SA</markup>,266,0,1,1
 <markup>Madeco SA</markup>,266,20,21,1
 Latin American,266,29,30,0
@@ -2001,33 +2001,33 @@ Pierre,266,135,135,0
 Boucheny,266,136,136,0
 But,266,145,145,0
 <markup>Nexans</markup>,266,150,150,1
-<markup>Madeco</markup>'s,266,156,156,1
+<markup>Madeco</markup>,266,156,156,1
 <markup>OAO Novolipetsk Steel</markup>,267,0,2,1
 Vladimir Lisin,267,7,8,0
 <markup>OAO Maxi-Group</markup>,267,18,19,1
 Alisher Usmanov,267,23,24,0
-<markup>Novolipetsk Steel</markup>'s,267,40,41,1
-<markup>Alfa Bank</markup>,267,62,63,1
-Nikolai Maximov,267,107,108,0
-Vladimir Putin,267,115,116,0
-Billionaire Usmanov,267,124,125,0
+<markup>Novolipetsk Steel</markup>,267,40,41,1
+<markup>Alfa Bank</markup>,267,63,64,1
+Nikolai Maximov,267,108,109,0
+Vladimir Putin,267,116,117,0
+Billionaire Usmanov,267,125,126,0
 Novolipetsk,267,1,1,0
 Lisin,267,8,8,0
 Kommersant,267,21,21,0
 Alisher,267,23,23,0
 Usmanov,267,24,24,0
-Regulatory,267,58,58,0
-Service,267,60,60,0
-<markup>Maxi-Group</markup>,267,75,75,1
-Nikolai,267,107,107,0
-Maximov,267,108,108,0
-Putin,267,116,116,0
-Web,267,122,122,0
-Billionaire,267,124,124,0
-Usmanov,267,125,125,0
-<markup>Maxi-Group</markup>,267,132,132,1
-Kommersant,267,153,153,0
-Maximov,267,157,157,0
+Regulatory,267,59,59,0
+Service,267,61,61,0
+<markup>Maxi-Group</markup>,267,76,76,1
+Nikolai,267,108,108,0
+Maximov,267,109,109,0
+Putin,267,117,117,0
+Web,267,123,123,0
+Billionaire,267,125,125,0
+Usmanov,267,126,126,0
+<markup>Maxi-Group</markup>,267,133,133,1
+Kommersant,267,154,154,0
+Maximov,267,158,158,0
 <markup>Pantaloon Retail India Ltd</markup>,268,0,3,1
 <markup>Technopak Advisors Pvt</markup>,268,136,138,1
 Retail India,268,1,2,0
@@ -2053,7 +2053,7 @@ Biyani,268,159,159,0
 <markup>Pantaloon</markup>,268,161,161,1
 <markup>Pantaloon</markup>,268,214,214,1
 Biyani,268,257,257,0
-<markup>Pantaloon</markup>'s,268,259,259,1
+<markup>Pantaloon</markup>,268,259,259,1
 <markup>PeopleSupport Inc</markup>,269,0,1,1
 Caroline Rook,269,126,127,0
 New,269,20,20,0
@@ -2160,13 +2160,13 @@ State-run,273,131,131,0
 <markup>Rosneft</markup>,273,132,132,1
 <markup>Yukos</markup>,273,137,137,1
 <markup>Yukos</markup>,273,143,143,1
-<markup>Rosneft</markup>'s,273,163,163,1
-Bogdanchikov,273,171,171,0
-<markup>Rosneft</markup>,273,186,186,1
-Bogdanchikov,273,212,212,0
-<markup>Rosneft</markup>,273,224,224,1
-<markup>Rosneft</markup>,273,234,234,1
-Bogdanchikov,273,247,247,0
+<markup>Rosneft</markup>,273,163,163,1
+Bogdanchikov,273,172,172,0
+<markup>Rosneft</markup>,273,187,187,1
+Bogdanchikov,273,213,213,0
+<markup>Rosneft</markup>,273,225,225,1
+<markup>Rosneft</markup>,273,235,235,1
+Bogdanchikov,273,248,248,0
 <markup>OAO Yukos Oil</markup>,274,16,18,1
 <markup>OAO Rosneft</markup>,274,0,1,1
 Peter O'Brien,274,45,46,0
@@ -2196,31 +2196,31 @@ Bogdanchikov,274,207,207,0
 <markup>Rosneft</markup>,274,219,219,1
 <markup>Royal Dutch Shell Plc</markup>,275,0,3,1
 <markup>Royal Dutch Shell</markup>,275,28,30,1
-<markup>Royal Dutch Shell</markup>,275,138,140,1
-<markup>Royal Dutch Shell</markup>,275,155,157,1
-<markup>Royal Dutch Shell</markup>,275,175,177,1
+<markup>Royal Dutch Shell</markup>,275,139,141,1
+<markup>Royal Dutch Shell</markup>,275,156,158,1
+<markup>Royal Dutch Shell</markup>,275,176,178,1
 Dutch Shell,275,1,2,0
 <markup>OAO Tatneft</markup>,275,26,27,1
 Vladlen Voskoboinikov,275,47,48,0
-The Russian,275,87,88,0
-Oman Canada,275,148,149,0
+The Russian,275,88,89,0
+Oman Canada,275,149,150,0
 Dutch,275,1,1,0
 Shell,275,2,2,0
 Dutch,275,29,29,0
 Vladlen,275,47,47,0
 Voskoboinikov,275,48,48,0
-<markup>Tatneft</markup>'s,275,49,49,1
-Voskoboinikov,275,71,71,0
-If,275,73,73,0
-Tatarstan,275,91,91,0
-<markup>Tatneft</markup>,275,93,93,1
-Dutch,275,139,139,0
-<markup>Tatneft</markup>,275,153,153,1
-Dutch,275,156,156,0
-Voskoboinikov,275,168,168,0
-We're,275,170,170,0
-Dutch,275,176,176,0
-Voskoboinikov,275,183,183,0
+<markup>Tatneft</markup>,275,49,49,1
+Voskoboinikov,275,72,72,0
+If,275,74,74,0
+Tatarstan,275,92,92,0
+<markup>Tatneft</markup>,275,94,94,1
+Dutch,275,140,140,0
+<markup>Tatneft</markup>,275,154,154,1
+Dutch,275,157,157,0
+Voskoboinikov,275,169,169,0
+We're,275,171,171,0
+Dutch,275,177,177,0
+Voskoboinikov,275,184,184,0
 <markup>Scottish And Newcastle Plc</markup>,276,0,3,1
 <markup>Baltic Beverages Holding AB</markup>,276,113,116,1
 <markup>Scottish And Newcastle</markup>,276,42,44,1
@@ -2273,11 +2273,11 @@ Andrews,277,69,69,0
 Connie,277,75,75,0
 Custer,277,76,76,0
 <markup>SAIC</markup>,277,78,78,1
-<markup>SAIC</markup>'s,277,89,89,1
-Prior,277,113,113,0
-<markup>SAIC</markup>'s,277,128,128,1
-<markup>SAIC</markup>,277,133,133,1
-New,277,143,143,0
+<markup>SAIC</markup>,277,89,89,1
+Prior,277,114,114,0
+<markup>SAIC</markup>,277,129,129,1
+<markup>SAIC</markup>,277,135,135,1
+New,277,145,145,0
 Marshall Space Flight Center,278,41,44,0
 Marshall Space Flight,278,41,43,0
 Space Flight Center,278,42,44,0
@@ -2405,13 +2405,13 @@ Edwards,281,139,139,0
 <markup>Saks</markup>,281,176,176,1
 New,281,190,190,0
 Fire And Marine Insurance,282,9,12,0
-Hwang Tae Seon Yonhap,282,172,175,0
+Hwang Tae Seon Yonhap,282,174,177,0
 Fire And Marine,282,9,11,0
 And Marine Insurance,282,10,12,0
 Yun Jung Sok,282,57,59,0
-Kim Yong Chul,282,100,102,0
-Hwang Tae Seon,282,172,174,0
-Tae Seon Yonhap,282,173,175,0
+Kim Yong Chul,282,101,103,0
+Hwang Tae Seon,282,174,176,0
+Tae Seon Yonhap,282,175,177,0
 Fire And,282,9,10,0
 And Marine,282,10,11,0
 Marine Insurance,282,11,12,0
@@ -2419,14 +2419,14 @@ Marine Insurance,282,11,12,0
 Yun Jung,282,57,58,0
 Jung Sok,282,58,59,0
 <markup>Samsung Fire</markup>,282,77,78,1
-Kim Yong,282,100,101,0
-Yong Chul,282,101,102,0
-<markup>Samsung Fire</markup>,282,120,121,1
-<markup>Samsung Fire</markup>'s,282,159,160,1
-Hwang Tae,282,172,173,0
-Tae Seon,282,173,174,0
-Seon Yonhap,282,174,175,0
-<markup>Samsung Fire</markup>,282,183,184,1
+Kim Yong,282,101,102,0
+Yong Chul,282,102,103,0
+<markup>Samsung Fire</markup>,282,121,122,1
+<markup>Samsung Fire</markup>,282,160,161,1
+Hwang Tae,282,174,175,0
+Tae Seon,282,175,176,0
+Seon Yonhap,282,176,177,0
+<markup>Samsung Fire</markup>,282,185,186,1
 South,282,0,0,0
 Fire,282,9,9,0
 Marine,282,11,11,0
@@ -2436,141 +2436,141 @@ Investigators,282,41,41,0
 Yun,282,57,57,0
 Jung,282,58,58,0
 Sok,282,59,59,0
-<markup>Samsung</markup>'s,282,96,96,1
-Kim,282,100,100,0
-Yong,282,101,101,0
-Chul,282,102,102,0
-<markup>Samsung</markup>,282,115,115,1
-Sept,282,139,139,0
-That,282,141,141,0
-Kospi,282,152,152,0
-About,282,154,154,0
-Hwang,282,172,172,0
-Tae,282,173,173,0
-Seon,282,174,174,0
-Yonhap,282,175,175,0
-Officials,282,179,179,0
-Korean-language,282,203,203,0
-Vice Chairman Lee Hak Soo,283,150,154,0
-Chairman Lee Kun Hee's,283,28,31,0
-Seoul Yim Jun Seok,283,56,59,0
-Vice Chairman Lee Hak,283,150,153,0
-Chairman Lee Hak Soo,283,151,154,0
-<markup>Samsung Heavy Industries Co</markup>,283,194,197,1
-Fire And Marine Insurance,283,200,203,0
-In November South Korean,283,205,208,0
-Chairman Lee Kun,283,28,30,0
-Lee Kun Hee's,283,29,31,0
-Yun Jung Sok,283,43,45,0
-Seoul Yim Jun,283,56,58,0
-Yim Jun Seok,283,57,59,0
-Roh Moo Hyun,283,92,94,0
-Kim Yong Chul,283,114,116,0
-<markup>Samsung Electronics Co</markup>,283,146,148,1
-Vice Chairman Lee,283,150,152,0
-Chairman Lee Hak,283,151,153,0
-Lee Hak Soo,283,152,154,0
-Fire And Marine,283,200,202,0
-And Marine Insurance,283,201,203,0
-In November South,283,205,207,0
-November South Korean,283,206,208,0
-Lee Jae Yong,283,230,232,0
-<markup>Samsung Group</markup>'s,283,5,6,1
-Chairman Lee,283,28,29,0
-Lee Kun,283,29,30,0
-Kun Hee's,283,30,31,0
-<markup>Samsung Group</markup>'s,283,36,37,1
-Yun Jung,283,43,44,0
-Jung Sok,283,44,45,0
-Seoul Yim,283,56,57,0
-Yim Jun,283,57,58,0
-Jun Seok,283,58,59,0
-Roh Moo,283,92,93,0
-Moo Hyun,283,93,94,0
-Kim Yong,283,114,115,0
-Yong Chul,283,115,116,0
-<markup>Samsung Group</markup>,283,129,130,1
-Vice Chairman,283,150,151,0
-Chairman Lee,283,151,152,0
-Lee Hak,283,152,153,0
-Hak Soo,283,153,154,0
-<markup>Samsung Group</markup>,283,161,162,1
-<markup>Samsung Electronics</markup>,283,179,180,1
-Heavy Industries,283,195,196,0
-Fire And,283,200,201,0
-And Marine,283,201,202,0
-Marine Insurance,283,202,203,0
-In November,283,205,206,0
-November South,283,206,207,0
-Lee Jae,283,230,231,0
-Jae Yong,283,231,232,0
+<markup>Samsung</markup>,282,96,96,1
+Kim,282,101,101,0
+Yong,282,102,102,0
+Chul,282,103,103,0
+<markup>Samsung</markup>,282,116,116,1
+Sept,282,140,140,0
+That,282,142,142,0
+Kospi,282,153,153,0
+About,282,155,155,0
+Hwang,282,174,174,0
+Tae,282,175,175,0
+Seon,282,176,176,0
+Yonhap,282,177,177,0
+Officials,282,181,181,0
+Korean-language,282,205,205,0
+Vice Chairman Lee Hak Soo,283,154,158,0
+Chairman Lee Kun Hee's,283,29,32,0
+Seoul Yim Jun Seok,283,58,61,0
+Vice Chairman Lee Hak,283,154,157,0
+Chairman Lee Hak Soo,283,155,158,0
+<markup>Samsung Heavy Industries Co</markup>,283,198,201,1
+Fire And Marine Insurance,283,204,207,0
+In November South Korean,283,209,212,0
+Chairman Lee Kun,283,29,31,0
+Lee Kun Hee's,283,30,32,0
+Yun Jung Sok,283,45,47,0
+Seoul Yim Jun,283,58,60,0
+Yim Jun Seok,283,59,61,0
+Roh Moo Hyun,283,95,97,0
+Kim Yong Chul,283,118,120,0
+<markup>Samsung Electronics Co</markup>,283,150,152,1
+Vice Chairman Lee,283,154,156,0
+Chairman Lee Hak,283,155,157,0
+Lee Hak Soo,283,156,158,0
+Fire And Marine,283,204,206,0
+And Marine Insurance,283,205,207,0
+In November South,283,209,211,0
+November South Korean,283,210,212,0
+Lee Jae Yong,283,235,237,0
+<markup>Samsung Group</markup>,283,5,6,1
+Chairman Lee,283,29,30,0
+Lee Kun,283,30,31,0
+Kun Hee's,283,31,32,0
+<markup>Samsung Group</markup>,283,37,38,1
+Yun Jung,283,45,46,0
+Jung Sok,283,46,47,0
+Seoul Yim,283,58,59,0
+Yim Jun,283,59,60,0
+Jun Seok,283,60,61,0
+Roh Moo,283,95,96,0
+Moo Hyun,283,96,97,0
+Kim Yong,283,118,119,0
+Yong Chul,283,119,120,0
+<markup>Samsung Group</markup>,283,133,134,1
+Vice Chairman,283,154,155,0
+Chairman Lee,283,155,156,0
+Lee Hak,283,156,157,0
+Hak Soo,283,157,158,0
+<markup>Samsung Group</markup>,283,165,166,1
+<markup>Samsung Electronics</markup>,283,183,184,1
+Heavy Industries,283,199,200,0
+Fire And,283,204,205,0
+And Marine,283,205,206,0
+Marine Insurance,283,206,207,0
+In November,283,209,210,0
+November South,283,210,211,0
+Lee Jae,283,235,236,0
+Jae Yong,283,236,237,0
 South,283,0,0,0
-Chairman,283,28,28,0
-Lee,283,29,29,0
-Kun,283,30,30,0
-Hee's,283,31,31,0
-Yun,283,43,43,0
-Jung,283,44,44,0
-Sok,283,45,45,0
-Yim,283,57,57,0
-Seok,283,59,59,0
-<markup>Samsung</markup>'s,283,72,72,1
-Roh,283,92,92,0
-Moo,283,93,93,0
-Hyun,283,94,94,0
-<markup>Samsung</markup>'s,283,110,110,1
-Kim,283,114,114,0
-Yong,283,115,115,0
-Chul,283,116,116,0
-Yesterday,283,135,135,0
-Lee's,283,139,139,0
-Electronics,283,147,147,0
-Vice,283,150,150,0
-Chairman,283,151,151,0
-Lee,283,152,152,0
-Hak,283,153,153,0
-Soo,283,154,154,0
-Yun,283,159,159,0
-Other,283,190,190,0
-Heavy,283,195,195,0
-Fire,283,200,200,0
-Marine,283,202,202,0
-Insurance,283,203,203,0
-South,283,207,207,0
-<markup>Samsung</markup>'s,283,222,222,1
-Lee's,283,228,228,0
-Lee,283,230,230,0
-Jae,283,231,231,0
-Yong,283,232,232,0
-US Magistrate Judge Stephen Smith,284,73,77,0
-US Magistrate Judge Stephen,284,73,76,0
-Magistrate Judge Stephen Smith,284,74,77,0
-<markup>Shaw Group Inc</markup>'s,284,0,2,1
-US Magistrate Judge,284,73,75,0
-Magistrate Judge Stephen,284,74,76,0
-Judge Stephen Smith,284,75,77,0
-US Magistrate,284,73,74,0
-Magistrate Judge,284,74,75,0
-Judge Stephen,284,75,76,0
-Stephen Smith,284,76,77,0
-Baton-Rouge Louisiana-,284,148,149,0
-<markup>Shaw Group</markup>,284,153,154,1
-Sean Clancy,284,179,180,0
-<markup>Shaw Group</markup>,284,183,184,1
-Texas,284,18,18,0
-New,284,25,25,0
-<markup>Shaw</markup>,284,42,42,1
-Environmental,284,43,43,0
-Magistrate,284,74,74,0
-Judge,284,75,75,0
-Stephen,284,76,76,0
-Smith,284,77,77,0
-<markup>Shaw</markup>,284,142,142,1
-Environmental,284,143,143,0
-Baton-Rouge,284,148,148,0
-Louisiana-,284,149,149,0
-Sean,284,179,179,0
-Clancy,284,180,180,0
+Chairman,283,29,29,0
+Lee,283,30,30,0
+Kun,283,31,31,0
+Hee's,283,32,32,0
+Yun,283,45,45,0
+Jung,283,46,46,0
+Sok,283,47,47,0
+Yim,283,59,59,0
+Seok,283,61,61,0
+<markup>Samsung</markup>,283,74,74,1
+Roh,283,95,95,0
+Moo,283,96,96,0
+Hyun,283,97,97,0
+<markup>Samsung</markup>,283,113,113,1
+Kim,283,118,118,0
+Yong,283,119,119,0
+Chul,283,120,120,0
+Yesterday,283,139,139,0
+Lee's,283,143,143,0
+Electronics,283,151,151,0
+Vice,283,154,154,0
+Chairman,283,155,155,0
+Lee,283,156,156,0
+Hak,283,157,157,0
+Soo,283,158,158,0
+Yun,283,163,163,0
+Other,283,194,194,0
+Heavy,283,199,199,0
+Fire,283,204,204,0
+Marine,283,206,206,0
+Insurance,283,207,207,0
+South,283,211,211,0
+<markup>Samsung</markup>,283,226,226,1
+Lee's,283,233,233,0
+Lee,283,235,235,0
+Jae,283,236,236,0
+Yong,283,237,237,0
+US Magistrate Judge Stephen Smith,284,74,78,0
+US Magistrate Judge Stephen,284,74,77,0
+Magistrate Judge Stephen Smith,284,75,78,0
+<markup>Shaw Group Inc</markup>,284,0,2,1
+US Magistrate Judge,284,74,76,0
+Magistrate Judge Stephen,284,75,77,0
+Judge Stephen Smith,284,76,78,0
+US Magistrate,284,74,75,0
+Magistrate Judge,284,75,76,0
+Judge Stephen,284,76,77,0
+Stephen Smith,284,77,78,0
+Baton-Rouge Louisiana-,284,149,150,0
+<markup>Shaw Group</markup>,284,154,155,1
+Sean Clancy,284,180,181,0
+<markup>Shaw Group</markup>,284,184,185,1
+Texas,284,19,19,0
+New,284,26,26,0
+<markup>Shaw</markup>,284,43,43,1
+Environmental,284,44,44,0
+Magistrate,284,75,75,0
+Judge,284,76,76,0
+Stephen,284,77,77,0
+Smith,284,78,78,0
+<markup>Shaw</markup>,284,143,143,1
+Environmental,284,144,144,0
+Baton-Rouge,284,149,149,0
+Louisiana-,284,150,150,0
+Sean,284,180,180,0
+Clancy,284,181,181,0
 <markup>China Petroleum And Chemical Corp</markup>,285,0,4,1
 Petroleum And Chemical,285,1,3,0
 Petroleum And,285,1,2,0
@@ -2588,33 +2588,33 @@ China's,285,173,173,0
 Christmas,285,193,193,0
 Reducing,285,198,198,0
 Ethylene,285,224,224,0
-<markup>Controladora Comericial Mexicana SAB</markup>,286,114,117,1
-<markup>Controladora Comercial Mexicana</markup>,286,120,122,1
+<markup>Controladora Comericial Mexicana SAB</markup>,286,116,119,1
+<markup>Controladora Comercial Mexicana</markup>,286,122,124,1
 <markup>Soriana SAB</markup>,286,1,2,1
 SORIANAB Mexico,286,3,4,0
-<markup>Gigante SAB</markup>'s,286,11,12,1
-Pedro Mejia,286,38,39,0
-Comericial Mexicana,286,115,116,0
+<markup>Gigante SAB</markup>,286,11,12,1
+Pedro Mejia,286,40,41,0
+Comericial Mexicana,286,117,118,0
 Organizacion,286,0,0,0
-<markup>Soriana</markup>,286,22,22,1
-<markup>Gigante</markup>'s,286,36,36,1
-Pedro,286,38,38,0
-Mejia,286,39,39,0
-<markup>Soriana</markup>,286,66,66,1
-Mexican,286,74,74,0
-<markup>Soriana</markup>,286,82,82,1
-<markup>Soriana</markup>,286,98,98,1
-Mart,286,105,105,0
-Comericial,286,115,115,0
-Mexicana,286,116,116,0
-Comercial,286,121,121,0
-City,286,136,136,0
-Excelsior,286,138,138,0
-<markup>Walmex</markup>,286,148,148,1
-Last,286,160,160,0
-<markup>Soriana</markup>,286,162,162,1
-<markup>Gigante</markup>'s,286,170,170,1
-<markup>Walmex</markup>,286,176,176,1
+<markup>Soriana</markup>,286,23,23,1
+<markup>Gigante</markup>,286,37,37,1
+Pedro,286,40,40,0
+Mejia,286,41,41,0
+<markup>Soriana</markup>,286,68,68,1
+Mexican,286,76,76,0
+<markup>Soriana</markup>,286,84,84,1
+<markup>Soriana</markup>,286,100,100,1
+Mart,286,107,107,0
+Comericial,286,117,117,0
+Mexicana,286,118,118,0
+Comercial,286,123,123,0
+City,286,138,138,0
+Excelsior,286,140,140,0
+<markup>Walmex</markup>,286,150,150,1
+Last,286,162,162,0
+<markup>Soriana</markup>,286,164,164,1
+<markup>Gigante</markup>,286,172,172,1
+<markup>Walmex</markup>,286,179,179,1
 <markup>Stillwater Mining Co</markup>,287,0,2,1
 Frank McAllister,287,161,162,0
 Mining,287,1,1,0
@@ -2876,31 +2876,31 @@ Reid,293,167,167,0
 Sept,293,170,170,0
 Virgin,293,185,185,0
 Sept,293,191,191,0
-<markup>Deutsche Bank AG</markup>,294,108,110,1
-<markup>UralSib Fianancial Corp</markup>,294,145,147,1
+<markup>Deutsche Bank AG</markup>,294,109,111,1
+<markup>UralSib Fianancial Corp</markup>,294,146,148,1
 <markup>VTB Group</markup>,294,0,1,1
-<markup>Citigroup Inc</markup>,294,112,113,1
-Leonid Slipchenko,294,139,140,0
-Nikolai Tsekhomsky,294,219,220,0
-June Assets,294,255,256,0
-Moscow Net,294,284,285,0
+<markup>Citigroup Inc</markup>,294,113,114,1
+Leonid Slipchenko,294,140,141,0
+Nikolai Tsekhomsky,294,221,222,0
+June Assets,294,257,258,0
+Moscow Net,294,286,287,0
 Preliminary,294,36,36,0
 Net,294,72,72,0
-<markup>VTB</markup>'s,294,90,90,1
-Sept,294,119,119,0
-Leonid,294,139,139,0
-Slipchenko,294,140,140,0
-Fianancial,294,146,146,0
-<markup>VTB</markup>'s,294,152,152,1
-<markup>VTB</markup>,294,177,177,1
-Micex,294,186,186,0
-Nikolai,294,219,219,0
-Tsekhomsky,294,220,220,0
-<markup>VTB</markup>,294,239,239,1
-Assets,294,256,256,0
-Tsekhomsky,294,280,280,0
-Net,294,285,285,0
-<markup>VTB</markup>,294,302,302,1
+<markup>VTB</markup>,294,90,90,1
+Sept,294,120,120,0
+Leonid,294,140,140,0
+Slipchenko,294,141,141,0
+Fianancial,294,147,147,0
+<markup>VTB</markup>,294,153,153,1
+<markup>VTB</markup>,294,179,179,1
+Micex,294,188,188,0
+Nikolai,294,221,221,0
+Tsekhomsky,294,222,222,0
+<markup>VTB</markup>,294,241,241,1
+Assets,294,258,258,0
+Tsekhomsky,294,282,282,0
+Net,294,287,287,0
+<markup>VTB</markup>,294,304,304,1
 <markup>Aeronautic Defence And Space Co</markup>,295,15,19,1
 <markup>Aeronautic Defence And Space Co</markup>,295,40,44,1
 <markup>Aeronautic Defence And Space Co</markup>,295,91,95,1
@@ -2946,104 +2946,104 @@ Space,295,150,150,0
 <markup>VTB</markup>,295,165,165,1
 <markup>Wavefield Inseis ASA</markup>,296,0,2,1
 <markup>TGS-Nopec Geophysical Co</markup>,296,9,11,1
-Morten Nystroem,296,55,56,0
-<markup>PricewaterhouseCoopers LLP</markup>,296,113,114,1
-<markup>TGS- Nopec</markup>,296,194,195,1
+Morten Nystroem,296,56,57,0
+<markup>PricewaterhouseCoopers LLP</markup>,296,114,115,1
+<markup>TGS- Nopec</markup>,296,195,196,1
 Inseis,296,1,1,0
 Geophysical,296,10,10,0
-<markup>TGS-Nopec</markup>'s,296,19,19,1
-Norwegian,296,33,33,0
-There's,296,38,38,0
-Morten,296,55,55,0
-Nystroem,296,56,56,0
-<markup>TGS-Nopec</markup>,296,63,63,1
-<markup>Wavefield</markup>,296,69,69,1
-Shares,296,70,70,0
-<markup>Wavefield</markup>,296,90,90,1
-<markup>TGS-Nopec</markup>,296,92,92,1
-<markup>Wavefield</markup>,296,105,105,1
-<markup>TGS-Nopec</markup>,296,118,118,1
-<markup>TGS-Nopec</markup>,296,145,145,1
-<markup>Wavefield</markup>,296,147,147,1
-Sept,296,150,150,0
-US District Court Northern District,297,223,227,0
-US District Court Northern,297,223,226,0
-District Court Northern District,297,224,227,0
+<markup>TGS-Nopec</markup>,296,19,19,1
+Norwegian,296,34,34,0
+There's,296,39,39,0
+Morten,296,56,56,0
+Nystroem,296,57,57,0
+<markup>TGS-Nopec</markup>,296,64,64,1
+<markup>Wavefield</markup>,296,70,70,1
+Shares,296,71,71,0
+<markup>Wavefield</markup>,296,91,91,1
+<markup>TGS-Nopec</markup>,296,93,93,1
+<markup>Wavefield</markup>,296,106,106,1
+<markup>TGS-Nopec</markup>,296,119,119,1
+<markup>TGS-Nopec</markup>,296,146,146,1
+<markup>Wavefield</markup>,296,148,148,1
+Sept,296,151,151,0
+US District Court Northern District,297,226,230,0
+US District Court Northern,297,226,229,0
+District Court Northern District,297,227,230,0
 <markup>Weber-Stephen Products Co</markup>,297,0,2,1
-<markup>Pro-Iroda USA Inc</markup>'s,297,23,25,1
-<markup>RH Peterson Co</markup>'s,297,28,30,1
-<markup>Baker And McKenzie</markup>,297,123,125,1
-<markup>Baker And McKenzie</markup>'s,297,177,179,1
-David I Roche,297,180,182,0
-Daniel A Tallitsch,297,184,186,0
-<markup>Weber-Stephen Products Co</markup>,297,194,196,1
-Pro-Iroda USA Inc,297,198,200,0
-US District Court,297,202,204,0
-Illinois Chicago The,297,208,210,0
-<markup>Weber-Stephen Products Co</markup>,297,215,217,1
-<markup>RH Peterson Co</markup>,297,219,221,1
-US District Court,297,223,225,0
-District Court Northern,297,224,226,0
-Court Northern District,297,225,227,0
+<markup>Pro-Iroda USA Inc</markup>,297,23,25,1
+<markup>RH Peterson Co</markup>,297,29,31,1
+<markup>Baker And McKenzie</markup>,297,125,127,1
+<markup>Baker And McKenzie</markup>,297,179,181,1
+David I Roche,297,183,185,0
+Daniel A Tallitsch,297,187,189,0
+<markup>Weber-Stephen Products Co</markup>,297,197,199,1
+Pro-Iroda USA Inc,297,201,203,0
+US District Court,297,205,207,0
+Illinois Chicago The,297,211,213,0
+<markup>Weber-Stephen Products Co</markup>,297,218,220,1
+<markup>RH Peterson Co</markup>,297,222,224,1
+US District Court,297,226,228,0
+District Court Northern,297,227,229,0
+Court Northern District,297,228,230,0
 Palatine Illinois,297,20,21,0
-Grill Topper,297,31,32,0
-Moreland Hills,297,46,47,0
-<markup>RH Peterson</markup>,297,51,52,1
-Industry California,297,56,57,0
-Chicago March,297,67,68,0
-<markup>Weber- Stephen</markup>,297,146,147,1
-David I,297,180,181,0
-I Roche,297,181,182,0
-Daniel A,297,184,185,0
-A Tallitsch,297,185,186,0
-Pro-Iroda USA,297,198,199,0
-USA Inc,297,199,200,0
-US District,297,202,203,0
-District Court,297,203,204,0
-Illinois Chicago,297,208,209,0
-Chicago The,297,209,210,0
-US District,297,223,224,0
-District Court,297,224,225,0
-Court Northern,297,225,226,0
-Northern District,297,226,227,0
-Illinois Chicago,297,229,230,0
+Grill Topper,297,33,34,0
+Moreland Hills,297,48,49,0
+<markup>RH Peterson</markup>,297,53,54,1
+Industry California,297,58,59,0
+Chicago March,297,69,70,0
+<markup>Weber- Stephen</markup>,297,148,149,1
+David I,297,183,184,0
+I Roche,297,184,185,0
+Daniel A,297,187,188,0
+A Tallitsch,297,188,189,0
+Pro-Iroda USA,297,201,202,0
+USA Inc,297,202,203,0
+US District,297,205,206,0
+District Court,297,206,207,0
+Illinois Chicago,297,211,212,0
+Chicago The,297,212,213,0
+US District,297,226,227,0
+District Court,297,227,228,0
+Court Northern,297,228,229,0
+Northern District,297,229,230,0
+Illinois Chicago,297,232,233,0
 Products,297,1,1,0
 <markup>Weber</markup>,297,8,8,1
 <markup>Weber</markup>,297,17,17,1
 Illinois,297,21,21,0
-O-Grill,297,26,26,0
-Peterson,297,29,29,0
-Grill,297,31,31,0
-Topper,297,32,32,0
-<markup>Weber</markup>,297,44,44,1
-Moreland,297,46,46,0
-Hills,297,47,47,0
-<markup>Pro-Iroda</markup>,297,49,49,1
-City,297,54,54,0
-Industry,297,56,56,0
-California,297,57,57,0
-<markup>Weber-Stephen</markup>,297,106,106,1
-Chicago's,297,122,122,0
-<markup>Weber-Stephen</markup>,297,160,160,1
-Roche,297,182,182,0
-Daniel,297,184,184,0
-Tallitsch,297,186,186,0
-<markup>Weber-Stephen</markup>,297,188,188,1
-Pro-Iroda,297,192,192,0
-Products,297,195,195,0
-Pro-Iroda,297,198,198,0
-District,297,203,203,0
-Court,297,204,204,0
+O-Grill,297,27,27,0
+Peterson,297,30,30,0
+Grill,297,33,33,0
+Topper,297,34,34,0
+<markup>Weber</markup>,297,46,46,1
+Moreland,297,48,48,0
+Hills,297,49,49,0
+<markup>Pro-Iroda</markup>,297,51,51,1
+City,297,56,56,0
+Industry,297,58,58,0
+California,297,59,59,0
+<markup>Weber-Stephen</markup>,297,108,108,1
+Chicago's,297,124,124,0
+<markup>Weber-Stephen</markup>,297,162,162,1
+Roche,297,185,185,0
+Daniel,297,187,187,0
+Tallitsch,297,189,189,0
+<markup>Weber-Stephen</markup>,297,191,191,1
+Pro-Iroda,297,195,195,0
+Products,297,198,198,0
+Pro-Iroda,297,201,201,0
 District,297,206,206,0
-Illinois,297,208,208,0
-<markup>Peterson</markup>,297,213,213,1
-Products,297,216,216,0
-Peterson,297,220,220,0
-District,297,224,224,0
-Court,297,225,225,0
-Northern,297,226,226,0
+Court,297,207,207,0
+District,297,209,209,0
+Illinois,297,211,211,0
+<markup>Peterson</markup>,297,216,216,1
+Products,297,219,219,0
+Peterson,297,223,223,0
 District,297,227,227,0
-Illinois,297,229,229,0
+Court,297,228,228,0
+Northern,297,229,229,0
+District,297,230,230,0
+Illinois,297,232,232,0
 <markup>Coles Group Ltd</markup>,298,77,79,1
 <markup>Wesfarmers Ltd</markup>,298,0,1,1
 Richard Goyder,298,117,118,0

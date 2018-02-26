@@ -1,12 +1,12 @@
 <markup>Research In Motion Ltd.</markup> (RIMM)  says  <markup>Apple
 Inc.</markup> (AAPL) 's introduction of the iPhone in June may help drive sales of
 BlackBerrys.  
- ``Hats off to Steve'' Jobs, <markup>Apple</markup>'s leader, Research In
+ ``Hats off to Steve'' Jobs, <markup>Apple</markup> 's leader, Research In
 Motion co-Chief Executive Officer Michael Lazaridis said in an
 interview yesterday at the CTIA Wireless conference in  Orlando ,
  Florida . ``He made smartphones cool again. Now everyone wants
 one. He helped the entire industry.''  
- Analysts such as <markup>Goldman Sachs Group Inc.</markup>'s Brantley
+ Analysts such as <markup>Goldman Sachs Group Inc.</markup> 's Brantley
 Thompson had speculated that the iPhone, which blends an e-mail
 phone with the best-selling iPod music player, would take sales
 from the BlackBerry. U.S. sales of those types of phones may rise

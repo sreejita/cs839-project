@@ -1,4 +1,4 @@
-The perceived risk of companies
+sThe perceived risk of companies
 defaulting on their debt rose after a U.S. manufacturing index
 shrank the most in almost five years, stoking concerns that the
 economy is headed toward recession.  
@@ -13,9 +13,9 @@ default swap index has climbed more than 36 basis points in the
 past 12 weeks as credit investor confidence erodes.  
  The decline in manufacturing ``increases the chance'' of a
 recession,  David Wyss , chief global economist at  <markup>Standard &
-Poor</markup>'s  in New York, said in a Bloomberg TV interview. ``You've
+Poor</markup> 's  in New York, said in a Bloomberg TV interview. ``You've
 got to say this is getting around to a 50-50 shot now.''  
- The  <markup>Institute for Supply Management</markup>'s factory index fell to
+ The  <markup>Institute for Supply Management</markup> 's factory index fell to
 47.7 in December from 50.8 in November, the Tempe, Arizona-based
 group said today. Economists had forecast a drop to 50.5, the
 median estimate from a Bloomberg News survey. Fifty is the line
