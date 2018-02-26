@@ -5,6 +5,8 @@ Department
 Committee
 Commission
 Bloomberg
+Stock
+Stocks
 Bureau
 News
 Agency

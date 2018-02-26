@@ -52,3 +52,4 @@ Nov
 Dec
 Finance
 Financial
+And
