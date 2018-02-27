@@ -16,3 +16,12 @@ French
 Spanish
 Lebanese
 Jewish
+Italian
+Scottish
+English
+Ukrainian
+Islamic
+Russian
+Canadian
+Portugese
+Brazilian
