@@ -21,6 +21,9 @@ Scottish
 English
 Ukrainian
 Islamic
+Norweigan
+African
+Mexican
 Russian
 Canadian
 Portugese
