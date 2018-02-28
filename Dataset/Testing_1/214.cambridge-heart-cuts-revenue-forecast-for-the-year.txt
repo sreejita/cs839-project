@@ -7,7 +7,7 @@ for the third quarter, lower than the average forecast of $4.26
 million from two analysts in a Bloomberg survey, and said full-
 year revenue won't reach the earlier projection of $14 million
 to $16 million.  
- <markup>The Bedford</markup>, Massachusetts, company developed technology
+ The <markup>Bedford</markup>, Massachusetts, company developed technology
 called microvolt T-wave alternans to determine which patients
 are at risk of sudden cardiac arrest and would benefit from
 implanted defibrillators. <markup>Cambridge Heart</markup> announced a
